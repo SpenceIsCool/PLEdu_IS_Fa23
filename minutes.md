@@ -3,6 +3,19 @@
 - East & Schafe on interview grading
 - Williams and Kessler [2000] on pair programming
 - how many of our courses use interview grading today? slack?
+- Katherine E. Stange. 2018. Standards-based Grading in an Introduction to Abstract Mathematics Course. PRIMUS 28, 9 (2018), 797–820. https://doi.org/10.1080/ 10511970.2017.1408044
+- 5, 12, 15, 24...
+- Heubrach & Krinsky [ 9]
+
+# T: September 5, 2023
+- Experience Report: Standards-Based Grading at Scale in Algorithms
+    - BA has Algo required in Fa19, but that means they wouldn't take it that semester... (personal thought)
+    - grades should communicate to students their current command of the content and progress with respect to well-defined stan- dards [25]
+    - standards require at least one timed event for each standard
+    - requires student understanding this new grading format to ensure success and decrease anxiety
+    - challenging time period through covid. good data about remote work.
+- standup prep: busy personal life and getting caught up. Read through the pl detective and standards-based grading reports. Getting habits for the lab notebook. Finding some leads for more papers to read. Next I want to look at a peer university course layout. No blocks at this time.
+
 
 # F: September 1, 2023
 - I'm finally organizing the google drive folder and getting back to this work. This has been a very busy week for me and I have not succeeded in doing much - really any - research for this project. This concerns me. I'll need to re-prioritize this moving forward.
