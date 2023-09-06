@@ -1,11 +1,92 @@
 # TODO:
+- Continue: INTERACTIVE PROGRAM DEMONSTRATION AS A FORM OF STUDENT PROGRAM ASSESSMENT
+- construcivist teaching?
 - look at the pair programming papers
-- East & Schafe on interview grading
 - Williams and Kessler [2000] on pair programming
 - how many of our courses use interview grading today? slack?
+- Norman Ramsey (Tufts) has a new PL textbook. class: https://www.cs.tufts.edu/comp/105-2019s/notes.html Can get at our library?
+- find papers sighting the linked papers of: https://dl.acm.org/doi/pdf/10.5555/771322.771335 (the linked papers are old, but I bet people have taken it further)
+- Heubrach & Krinsky [ 9]: Silvia Heubach and Sharona Krinsky. 2020. Implementing Mastery-Based Grading at Scale in Introductory Statistics. PRIMUS (2020), 1–17. https://doi.org/10.1080/ 10511970.2019.170057
+    - https://www.tandfonline.com/doi/abs/10.1080/10511970.2019.1700576?journalCode=upri20
+    - 
+- 24:  Michael Shindler, Matt Ferland, Aaron Cote, and Olivera Grujic. 2020. Experience Report: Preemptive Final Exams for Computer Science Theory Classes. J. Comput.  Sci. Coll. 35, 10 (April 2020), 9–14. https://dl.acm.org/doi/abs/10.5555/3417699.  3417700
+    - https://dl.acm.org/doi/abs/10.5555/3417699.3417700
+    - 
 - Katherine E. Stange. 2018. Standards-based Grading in an Introduction to Abstract Mathematics Course. PRIMUS 28, 9 (2018), 797–820. https://doi.org/10.1080/ 10511970.2017.1408044
-- 5, 12, 15, 24...
-- Heubrach & Krinsky [ 9]
+    - https://www.tandfonline.com/doi/full/10.1080/10511970.2017.1408044
+    - seem interesting, but lower priority to me
+- 5: Jason Elsinger and Drew G. Lewis. 2019. Applying a Standards-Based Grading Framework Across Lower Level Mathematics Courses. PRIMUS (2019), 1–23.  https://doi.org/10.1080/10511970.2019.1674430
+    - https://www.tandfonline.com/doi/full/10.1080/10511970.2019.1674430
+    - seem interesting, but lower priority to me
+    - specific notes on large classes
+    - should have practical notes
+- 12: Drew D Lewis. 2020. Gender Effects on Re-assessment Attempts in a Standards- Based Grading Implementation. PRIMUS 30 (2020), 539–551. https://doi.org/10.  1080/10511970.2019.1616636
+    - https://www.tandfonline.com/doi/full/10.1080/10511970.2019.1616636
+    - facinating concept on diversity impacts of the method of teaching...
+
+
+# KEY
+- a few key terms I can lookup
+- PERSONAL NOTE
+- SPWI: a cursor set
+
+
+SPWI: template
+# D: Month dd, yyyy
+SPWI
+
+
+# W: September 6, 2023
+- review of papers I was interested in from standards based grading
+- 15: Kate Owens. 2015. A Beginner’s Guide to Standards Based Grading. https://blogs.ams.org/matheducation/2015/11/20/a-beginners-guide-to-standards-based-grading/
+    - https://blogs.ams.org/matheducation/2015/11/20/a-beginners-guide-to-standards-based-grading/
+    - seems friendly enough and worth reading
+    - The goal of SBG is to shift the focus of grades from a weighted average of scores earned on various assignments to a measure of mastery of individual learning targets related to the content of the course.
+    -  benefits: lower stakes on each topic, great changes in OH discussions (no interest in partial credit and lost points...)
+    - drawbacks:  requires a lot of student buy in (has challenges), hard to do grading in tools like Canvas, hard to balance workload for students and staff
+    - 5 questions to ask before starting:
+        - what are the standards for the class
+        - how many standards do you want (30 in a 16 week class?)
+        - how will re-attempts work logistically
+        - final assessment and weight
+        - scores -> standard letter grade?
+- I don't have access to the other articles on current machine (need to get vpn working again...) pushed to TODOs
+- pivot to ...
+- East & Schafe on interview grading: . P. East and J. B. Schafer. In-person grading: an evaluative experiment. In Proceedings of the 36th SIGCSE technical symposium on Computer science education - SIGCSE ’05, page 378, New York, New York, USA, 2005. ACM Press.
+    - https://dl.acm.org/doi/pdf/10.1145/1047344.1047472
+    - University of Northern Iowa
+    - more immediate feedback with actions attached to it and building connection with a person. the 1:1 time helps to improve connections.
+    - 2 instructors and 84 students... very tiny relative to the CU program...
+    - 1/3 each
+        - student discussion sessions occur as well in small groups.
+        - instructor lead discussions occur as well. presentations by the instructor.
+        - 1:1s with premade questions for instructor to interview the student
+    - few statistically evident findings...
+        - I feel more comfortable asking questions in this class than in many of my other classes
+        - students in the student-initiated treatment indicate a significantly higher comfort level than students in the instructor-led treatment
+        - students largely would prefer in person grading, students in instructor lead meeting wanted to switch out and students in student lead discussions were split on opinion
+    - notes weeknesses in the experiment and lack of statistical findings
+    - needs buy in and time from instructors. challenges of scale.
+    - value in having different instructor do the instructor discussion vs in the lecture... although this may be a pain point for the study itself in having consistent data for review? I'm not sure I read that correctly.
+- Ruehr, F. and Orr, G. Interactive program demonstration as a form of student program assessment. Journal of Computing Sciences in Colleges, 18, 2 (December, 2002), 65-78
+    - https://dl.acm.org/doi/pdf/10.5555/771322.771335
+    - 2002
+    -  good approaches will allow instructors to
+        - identify those students who are best suited to continue in the curriculum
+        - provide an opportunity to “rescue” those who are having trouble
+        - provide feedback on the success of lectures, recitations and other instruction.
+    - graded events to consider: traditional “written assignment” grading, automated and semi-automated grading, peer review, public student presentation, interactive program demonstration
+    - goals of good grading/assessment process: informative, focused, fair, feasible, rewarding
+        - informative: does the approach provide sufficient feedback to the student to allow them to adjust their thinking and their work?
+        - focussed: to what extent does it support feedback specific to the individual student?
+        - fair: does it favor one learning style or student personality over another?
+        - feasible: can it be practically applied, given the constraints of class size and expectations of student and faculty (instructor) work load?
+        - rewarding: will it comprise a satisfying and enriching experience, froma broader perspective, for both the student and the instructor? (Computer science is at greater risk than most disciplines of alienating students over the isolated, impersonal nature of programming; see e.g., [Dav 00].)
+    - the time it takes to identify a bug, explain the issue, and explain a fix is important. it shows the challenge in time to work with bugs. 
+        - PERSONAL NOTE: i've struggled with this. I prefer to pre-code things and be prepared to teach in class in a way that we don't see the bugs (I fix them in my prep time), but this does hurt students sometimes as they struggle to know what a common bug is and how they might fix it. I'm curious to explore a balance of this. In particular, have days where I intentionally am less prepared, or perhaps have students submit their bugged code, then we will debug live. This could be a fun warm up exercise to try. Let people submit a bugged thing early over some anonymous forum. Something to think about
+    - find papers sighting the linked papers of: https://dl.acm.org/doi/pdf/10.5555/771322.771335 (the linked papers are old, but I bet people have taken it further)
+    - Need to pickup later. stuck on page 70 (6 of 14). Should move back up the document...
+
 
 # T: September 5, 2023
 - Experience Report: Standards-Based Grading at Scale in Algorithms
