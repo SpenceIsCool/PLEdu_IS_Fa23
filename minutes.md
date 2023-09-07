@@ -1,7 +1,7 @@
 # TODO:
-- Continue: INTERACTIVE PROGRAM DEMONSTRATION AS A FORM OF STUDENT PROGRAM ASSESSMENT
 - construcivist teaching?
 - look at the pair programming papers
+
 - Williams and Kessler [2000] on pair programming
 - how many of our courses use interview grading today? slack?
 - Norman Ramsey (Tufts) has a new PL textbook. class: https://www.cs.tufts.edu/comp/105-2019s/notes.html Can get at our library?
@@ -23,11 +23,14 @@
 - 12: Drew D Lewis. 2020. Gender Effects on Re-assessment Attempts in a Standards- Based Grading Implementation. PRIMUS 30 (2020), 539–551. https://doi.org/10.  1080/10511970.2019.1616636
     - https://www.tandfonline.com/doi/full/10.1080/10511970.2019.1616636
     - facinating concept on diversity impacts of the method of teaching...
+- the value of anonymity in the classroom. consider the notes on piazza as value specifically for women in STEM.
+- SPWI
 
 
 # KEY
 - a few key terms I can lookup
 - PERSONAL NOTE
+- THOUGHT
 - SPWI: a cursor set
 
 
@@ -35,6 +38,20 @@ SPWI: template
 # D: Month dd, yyyy
 SPWI
 
+SPWI: template
+# R: Sept 07, 2023
+- Continue: INTERACTIVE PROGRAM DEMONSTRATION AS A FORM OF STUDENT PROGRAM ASSESSMENT
+    - Need to pickup later. stuck on page 70 (6 of 14). Should move back up the document...
+    - demonstartion grading. student does the work. she asks for a 1:1 there in lab. she shows her work. the instructor points out ops for improvement. think oral exam, but code based. Can suggest extentions and changes to the spec. closed loop with ops to discuss good and bad. comes with live debugging from the student as the code is expanded. We can grade the student's flexibility/"agility" in debugging (flexible to the student's needs and ability).
+    - show program robustness by suggesting new tests that show the limit of the code.
+    - student is prompted with questions of the code. see if they have learned or mearly copied things (in some valid way).
+    - early misunderstandings are caught and can be discussed at the class level
+    - recomendation for large classes: use office hours, TAs iff they are well prepared, could be done with async video but loose the in-person value
+        - PERSONAL NOTE: this paper suggests that upper divisions are small classes, but this isn't true at CU and other large isntitutions today. the paper is a bit old... I likely want to look at lower division essays as they likely already focus on LARGE classrooms.
+    - methods again: written submission, automated grading, peer review, and public presentations
+    - this paper focuses on developing personal rlationships between the instructor and the students...
+    - THOUGHT: is it possible to have the TAs do some of the lectures and course prep to then offload this grading responsibility to the instructor? I think it's doable, but is it appropriate? Is it right?
+SPWICUR
 
 # W: September 6, 2023
 - review of papers I was interested in from standards based grading
