@@ -1,7 +1,7 @@
 # TODO:
 - construcivist teaching?
 - look at the pair programming papers
-
+- "If you get interested in interactive editing, you can talk with Matthew Hammer. He’s a former prof here having taught 3155 once or maybe twice. He still lives in the area."
 - Williams and Kessler [2000] on pair programming
 - how many of our courses use interview grading today? slack?
 - Norman Ramsey (Tufts) has a new PL textbook. class: https://www.cs.tufts.edu/comp/105-2019s/notes.html Can get at our library?
@@ -38,7 +38,6 @@ SPWI: template
 # D: Month dd, yyyy
 SPWI
 
-SPWI: template
 # R: Sept 07, 2023
 - Continue: INTERACTIVE PROGRAM DEMONSTRATION AS A FORM OF STUDENT PROGRAM ASSESSMENT
     - Need to pickup later. stuck on page 70 (6 of 14). Should move back up the document...
@@ -51,7 +50,7 @@ SPWI: template
     - methods again: written submission, automated grading, peer review, and public presentations
     - this paper focuses on developing personal rlationships between the instructor and the students...
     - THOUGHT: is it possible to have the TAs do some of the lectures and course prep to then offload this grading responsibility to the instructor? I think it's doable, but is it appropriate? Is it right?
-SPWICUR
+- SPWI
 
 # W: September 6, 2023
 - review of papers I was interested in from standards based grading
