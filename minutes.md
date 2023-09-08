@@ -1,9 +1,10 @@
 # TODO:
-- construcivist teaching?
+- more on: behavior thery, cognitive theory, constructivist theory (maybe)
 - look at the pair programming papers
 - "If you get interested in interactive editing, you can talk with Matthew Hammer. He’s a former prof here having taught 3155 once or maybe twice. He still lives in the area."
 - Williams and Kessler [2000] on pair programming
 - how many of our courses use interview grading today? slack?
+- Lookup Amy Ko work and see what readings are relevant to my work
 - Norman Ramsey (Tufts) has a new PL textbook. class: https://www.cs.tufts.edu/comp/105-2019s/notes.html Can get at our library?
 - find papers sighting the linked papers of: https://dl.acm.org/doi/pdf/10.5555/771322.771335 (the linked papers are old, but I bet people have taken it further)
 - Heubrach & Krinsky [ 9]: Silvia Heubach and Sharona Krinsky. 2020. Implementing Mastery-Based Grading at Scale in Introductory Statistics. PRIMUS (2020), 1–17. https://doi.org/10.1080/ 10511970.2019.170057
@@ -38,6 +39,52 @@ SPWI: template
 # D: Month dd, yyyy
 SPWI
 
+
+SPWI: template
+# F: Sep 8, 2023
+- Berlin, J. A. (1982). Contemporary Composition: The Major Pedagogical Theories. College English, 44(8), 765–777. https://doi.org/10.2307/377329
+    - 1982
+    - highly cited: 900+
+    - starts with discussion of teaching writing
+    - and procedes to clearly just be about writing... I don't think it's worth continuing
+- https://www.tnteu.ac.in/pdf/library/PEDAGOGY/18.%20Pedagogical%20Theories.%20(Article)%20Autor%20Dickson%20Kimeli%20Rutto.pdf
+    - Dickson Kimeli Rutto
+    - Herbatianism
+        - preparations
+        - presentation
+        - association
+        - generalization
+        - applications
+    - The new London group (1996)
+        - Situated practice: didatic and focused on the real world of the info
+        - Overt instruction: specific needs of the user
+        - Critical framing: students should critic things
+        - Transformed practice: students are both learners and teachers. have ops to apply knowledge beyond the classroom
+    - Learning theories
+        - Behaviorist: reinforcements on behaviors good and bad
+            - operant conditioning: cause and effect: nuetral, reinforcers +/- (cause more of), punisher (weeken/eliminate)
+            - classical conditioning: 1946, reflex to a stimulus
+            - social learning theory: behavior followed by modeling
+            - 3 things to remember
+                - instructors ought to reinforce learners
+                - instructors must use punishers
+                - behavior modeling is paramount
+        - Constructivist: active involvement of learners
+            - 4 stages
+                - sensory-motor stage 0 - 1.5: simple reflexes, primary circular reaction (will try to replicate things that happened by random chance), secondary circular reaction (aware beyond their body), coordination of seconday circular reactions, ternary circulr reactions, internalization of schemata
+                - pre-operational stage 1.5 - 7: Symbolic function sub-stage (have their own symbols), Intuitive thought sub-stage (have their own reasoning)
+                - concrete operational stage 7 - 12: learn to speak and think logically
+                - formal operational stage 12 - 15 and beyond: display more ability to solve complex problems
+            - nature and nurture matters and can affect the timeline of the stages
+            - Jean Piaget's Theory & Constructivist Theories in General to Pedagogical Practices
+                - age considerations
+                - individual differences
+                - assimilation 
+                - learning by doing
+                - active receptors of stimulus
+        - Cognitivist: complexities in human memory to learning. think of knowledge and retention of individuals. what is reasonable to do in 10 minutes? 1 hour?
+SPWI
+
 # R: Sept 07, 2023
 - Continue: INTERACTIVE PROGRAM DEMONSTRATION AS A FORM OF STUDENT PROGRAM ASSESSMENT
     - Need to pickup later. stuck on page 70 (6 of 14). Should move back up the document...
@@ -50,7 +97,7 @@ SPWI
     - methods again: written submission, automated grading, peer review, and public presentations
     - this paper focuses on developing personal rlationships between the instructor and the students...
     - THOUGHT: is it possible to have the TAs do some of the lectures and course prep to then offload this grading responsibility to the instructor? I think it's doable, but is it appropriate? Is it right?
-- SPWI
+
 
 # W: September 6, 2023
 - review of papers I was interested in from standards based grading
