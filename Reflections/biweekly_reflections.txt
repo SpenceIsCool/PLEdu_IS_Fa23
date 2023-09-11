@@ -1,0 +1,22 @@
+
+
+# TEMPLATE
+- Technical
+    - what has been done
+- Reflective
+    - My thoughts on the process so far
+
+
+# Monday September 11
+- Technical: In the first two weeks I have focused on reading and project setup. I've created a github page, a google drive, attended standups and setup additional one on ones with Evan. Readings so far are:
+    - PL-Detective: A System for Teaching Programming Language Concepts
+    - Personalized Attention @ Scale: Talk Isn't Cheap, But It's Effective
+    - Standards-Based Grading at Scale in Algorithms
+    - Interactive program demonstration as a form of student program assessment
+    - In-person grading: an evaluative experiment
+    - A Beginner’s Guide to Standards Based Grading
+    - Contemporary Composition: The Major Pedagogical Theories
+    - Pedagogical Theories
+- Reflective: As I get used to doing the work, I've noticed a few things. First, I am very intimidated by the lack of structure and the long timeline of this work. I undertsand that I need to aim to do work daily. I've been fairly successful in getting myself to do one or two readings on most days and I have a long and growing backlog of readings which I can continue to explore. Now, I have read many papers, but I'm not sure how I'm going to bring that information together. For now, I think I need to keep reading and taking notes like I have been. I want to have a broder knowledge of the space before I begin taking too much time to apply it/bring it all together. Thinking about the timeline. I have two weeks before my trip. When I return from the trip I'll have another two weeks of researching, then I'll enter the midterm period and will need to actively work on my paper and presentation. I have a new plan of attack for when I'll do my work in the early mornings. In this next two week period, I need to spend some time looking at the existing PL courses in addition to continuing my readings on teaching methods.
+
+

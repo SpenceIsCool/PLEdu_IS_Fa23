@@ -31,6 +31,7 @@
 # KEY
 - a few key terms I can lookup
 - PERSONAL NOTE
+- READING
 - THOUGHT
 - SPWI: a cursor set
 
@@ -40,14 +41,13 @@ SPWI: template
 SPWI
 
 
-SPWI: template
 # F: Sep 8, 2023
-- Berlin, J. A. (1982). Contemporary Composition: The Major Pedagogical Theories. College English, 44(8), 765–777. https://doi.org/10.2307/377329
+- READING: Berlin, J. A. (1982). Contemporary Composition: The Major Pedagogical Theories. College English, 44(8), 765–777. https://doi.org/10.2307/377329
     - 1982
     - highly cited: 900+
     - starts with discussion of teaching writing
     - and procedes to clearly just be about writing... I don't think it's worth continuing
-- https://www.tnteu.ac.in/pdf/library/PEDAGOGY/18.%20Pedagogical%20Theories.%20(Article)%20Autor%20Dickson%20Kimeli%20Rutto.pdf
+- READING: https://www.tnteu.ac.in/pdf/library/PEDAGOGY/18.%20Pedagogical%20Theories.%20(Article)%20Autor%20Dickson%20Kimeli%20Rutto.pdf
     - Dickson Kimeli Rutto
     - Herbatianism
         - preparations
@@ -83,10 +83,11 @@ SPWI: template
                 - learning by doing
                 - active receptors of stimulus
         - Cognitivist: complexities in human memory to learning. think of knowledge and retention of individuals. what is reasonable to do in 10 minutes? 1 hour?
-SPWI
+- set calendar meeting the next two weeks with Evan
+- revisions to syllabus
 
 # R: Sept 07, 2023
-- Continue: INTERACTIVE PROGRAM DEMONSTRATION AS A FORM OF STUDENT PROGRAM ASSESSMENT
+- READING: Continue: INTERACTIVE PROGRAM DEMONSTRATION AS A FORM OF STUDENT PROGRAM ASSESSMENT
     - Need to pickup later. stuck on page 70 (6 of 14). Should move back up the document...
     - demonstartion grading. student does the work. she asks for a 1:1 there in lab. she shows her work. the instructor points out ops for improvement. think oral exam, but code based. Can suggest extentions and changes to the spec. closed loop with ops to discuss good and bad. comes with live debugging from the student as the code is expanded. We can grade the student's flexibility/"agility" in debugging (flexible to the student's needs and ability).
     - show program robustness by suggesting new tests that show the limit of the code.
@@ -101,7 +102,7 @@ SPWI
 
 # W: September 6, 2023
 - review of papers I was interested in from standards based grading
-- 15: Kate Owens. 2015. A Beginner’s Guide to Standards Based Grading. https://blogs.ams.org/matheducation/2015/11/20/a-beginners-guide-to-standards-based-grading/
+- READING: 15: Kate Owens. 2015. A Beginner’s Guide to Standards Based Grading. https://blogs.ams.org/matheducation/2015/11/20/a-beginners-guide-to-standards-based-grading/
     - https://blogs.ams.org/matheducation/2015/11/20/a-beginners-guide-to-standards-based-grading/
     - seems friendly enough and worth reading
     - The goal of SBG is to shift the focus of grades from a weighted average of scores earned on various assignments to a measure of mastery of individual learning targets related to the content of the course.
@@ -115,7 +116,7 @@ SPWI
         - scores -> standard letter grade?
 - I don't have access to the other articles on current machine (need to get vpn working again...) pushed to TODOs
 - pivot to ...
-- East & Schafe on interview grading: . P. East and J. B. Schafer. In-person grading: an evaluative experiment. In Proceedings of the 36th SIGCSE technical symposium on Computer science education - SIGCSE ’05, page 378, New York, New York, USA, 2005. ACM Press.
+- READING: East & Schafe on interview grading: . P. East and J. B. Schafer. In-person grading: an evaluative experiment. In Proceedings of the 36th SIGCSE technical symposium on Computer science education - SIGCSE ’05, page 378, New York, New York, USA, 2005. ACM Press.
     - https://dl.acm.org/doi/pdf/10.1145/1047344.1047472
     - University of Northern Iowa
     - more immediate feedback with actions attached to it and building connection with a person. the 1:1 time helps to improve connections.
@@ -131,7 +132,7 @@ SPWI
     - notes weeknesses in the experiment and lack of statistical findings
     - needs buy in and time from instructors. challenges of scale.
     - value in having different instructor do the instructor discussion vs in the lecture... although this may be a pain point for the study itself in having consistent data for review? I'm not sure I read that correctly.
-- Ruehr, F. and Orr, G. Interactive program demonstration as a form of student program assessment. Journal of Computing Sciences in Colleges, 18, 2 (December, 2002), 65-78
+- READING: Ruehr, F. and Orr, G. Interactive program demonstration as a form of student program assessment. Journal of Computing Sciences in Colleges, 18, 2 (December, 2002), 65-78
     - https://dl.acm.org/doi/pdf/10.5555/771322.771335
     - 2002
     -  good approaches will allow instructors to
@@ -152,7 +153,7 @@ SPWI
 
 
 # T: September 5, 2023
-- Experience Report: Standards-Based Grading at Scale in Algorithms
+- READING: Experience Report: Standards-Based Grading at Scale in Algorithms
     - BA has Algo required in Fa19, but that means they wouldn't take it that semester... (personal thought)
     - grades should communicate to students their current command of the content and progress with respect to well-defined stan- dards [25]
     - standards require at least one timed event for each standard
@@ -163,7 +164,7 @@ SPWI
 
 # F: September 1, 2023
 - I'm finally organizing the google drive folder and getting back to this work. This has been a very busy week for me and I have not succeeded in doing much - really any - research for this project. This concerns me. I'll need to re-prioritize this moving forward.
-- Really needed to read something today. Starting with "Personalized Attention @ Scale: Talk Isn't Cheap, But It's Effective"
+- READING Really needed to read something today. Starting with "Personalized Attention @ Scale: Talk Isn't Cheap, But It's Effective"
     - interview grading is efficient, valuable, and scalable - in intial findings
     - notes about pair programming in CS and other diciplines. take a look at these readings...
     - 15 minutes from arival to exit, but allows for 15 hours and 1 TA for 60 students... (personal TA experience, I know this is a challenge for the staff)
@@ -180,7 +181,7 @@ SPWI
         - how many people saw the survey over a year if only 600 people did the survey?
         - how many of our courses use interview grading today?
 - working on the syllabus further
-- reading "PL-Detective: A System for Teaching Programming Language Concepts"
+- READING "PL-Detective: A System for Teaching Programming Language Concepts"
     - Students can "create knowledge" rather than counting on an authority figure
         - Get students to collaborate with each other inside and outside the classroom
         - Get students to discover information by interacting with an experimental environment.
