@@ -1,4 +1,5 @@
 # TODO:
+- ?peer review? undergrad large scale technical?
 - more on: behavior thery, cognitive theory, constructivist theory (maybe)
 - look at the pair programming papers
 - "If you get interested in interactive editing, you can talk with Matthew Hammer. He’s a former prof here having taught 3155 once or maybe twice. He still lives in the area."
@@ -25,6 +26,17 @@
     - https://www.tandfonline.com/doi/full/10.1080/10511970.2019.1616636
     - facinating concept on diversity impacts of the method of teaching...
 - the value of anonymity in the classroom. consider the notes on piazza as value specifically for women in STEM.
+- sigcse: cs education (10 pages): undergrad profs and their experience. support college in XYZ, actionaable.
+- ISLS: international society of learning scientists. mrore on the peagody and theory
+- from calendar
+    - justice in PL (Amy Ko Washington University as a starting place)
+    - ungrading
+        - Get the slides on ungrading and consider it foryour syllabus
+        - See these! https://drive.google.com/drive/folders/1wV9GCLXb7F73GWDroxJ_k7UFy-OqdlAN
+        - Michaele Ferguson see her work for your IS
+        - https://www.jessestommel.com/on ungrading
+        - https://www.hsmitchellbuck.com/on ungrading
+        - Contract grading: Asao B. Inoue: https://asaobinoue.blogspot.com/p/labor-based-grading-contract-resources.html
 - SPWI
 
 
@@ -36,9 +48,38 @@
 - SPWI: a cursor set
 
 
-SPWI: template
 # D: Month dd, yyyy
 SPWI
+
+
+# R: Sept 14, 2023
+- 1:1 discussion with Sean about debugging: there is so much value in learning how to debug. How to see the error messages and stack trace of a problem and then use that information and the internet to find a solution. Story of having to compile the linux kernel many times. The likelyhood of equity issues and access to technology at a young age. Note that the process for doing this debugging is learnable and often easy to learn, but many college courses assume that students already know it or assume that students can easily teach it to themselves. Its actually rarely tough in entry level courses. Its actually not easy to learn on your own - although it is possible. Discussions about the idea of live coding and live debugging. A recomendation that the most value comes from watching someone that is very competent in their technical domain coming up against a wall and finding a path forward from that. Challenges to implement this in the classroom. There are papers on live coding and I agree there is value in live debugging be a part of that (challenges in timeing during a live class to live debug hard problems). It could be possible as live code-with-me videos where the dev talks to a rubber duck while debugging some issue.
+
+
+# W: Sept 13, 2023
+- Michael Schneider: Student Colloquium on cs tech::
+- conferences
+    - sigcse: cs education (10 pages): undergrad profs and their experience. support college in XYZ, actionaable.
+    - ISLS: international society of learning scientists. mrore on the peagody and theory
+    - amc: good papers
+- FABLEARN: how to create and learn. here target demographic is youth.
+- how to allow students to fail. dioes the system view failure as a positive as we often learn more from our failures then our successes
+- hardware and software features. often students will get to an issue and they will wait to hope someone will solve the problem for them. occasionally they ewill try to fix it by starting over. need a way to help them understand the real issuesand gain troubleshooting skills. Here the embeded system with ahrdware and software, the issue is hard to isolate. can give tools, but still need learned skills and behaviors to do that. first time through we often tinker (trial and error approaches).
+- time spent giving technical info on how to debug, we aren't actually exploring the problem space. We are exploring the how to debug things space... could be a problem. a modification of breakpoint to work on live info, not the static data of software, but also the info in the embeded hardware while stopping the program.
+- ideation is a key part of design. it's a key stage to make early (cheap) changes.
+- the tool is not designed to identify the issue, but to make it easy to ask questions cheeply and find the issue on your own.
+- focusing on separating concerns. here an emphasis on tinkering debugging. moving into strategic debugging in future iterations.
+
+
+# T: Sept 12, 2023
+- exploring univeristy course structures. notes in google drive excel sheet. Universities include:
+    - Technical Unieristy of Munich
+    - Universite Paris Saclay
+    - Stanford
+
+
+# M: Spet 11, 2023
+- one on one with evan (meetings recorded in other document)
 
 
 # F: Sep 8, 2023
