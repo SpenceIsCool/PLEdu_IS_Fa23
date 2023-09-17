@@ -1,0 +1,5 @@
+- each problem set has
+    - something autograded
+    - something that describes a problem to solve without scaffolding
+    - a chance to try your own task
+    - a place to explain your experience and grade yourself

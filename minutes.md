@@ -1,4 +1,7 @@
 # TODO:
+- explore peer grading
+- sample syllabus
+- jessestommel see youtube collection
 - ?peer review? undergrad large scale technical?
 - more on: behavior thery, cognitive theory, constructivist theory (maybe)
 - look at the pair programming papers
@@ -30,13 +33,10 @@
 - ISLS: international society of learning scientists. mrore on the peagody and theory
 - from calendar
     - justice in PL (Amy Ko Washington University as a starting place)
-    - ungrading
-        - Get the slides on ungrading and consider it foryour syllabus
-        - See these! https://drive.google.com/drive/folders/1wV9GCLXb7F73GWDroxJ_k7UFy-OqdlAN
-        - Michaele Ferguson see her work for your IS
-        - https://www.jessestommel.com/on ungrading
-        - https://www.hsmitchellbuck.com/on ungrading
-        - Contract grading: Asao B. Inoue: https://asaobinoue.blogspot.com/p/labor-based-grading-contract-resources.html
+- https://www.hsmitchellbuck.com/on ungrading
+- Contract grading: Asao B. Inoue: https://asaobinoue.blogspot.com/p/labor-based-grading-contract-resources.html
+- https://wac.colostate.edu/docs/books/labor/chapter1.pdf
+- http://craftinginterpreters.com/
 - SPWI
 
 
@@ -48,8 +48,122 @@
 - SPWI: a cursor set
 
 
-# D: Month dd, yyyy
+# D: Month dd, yyyy (template)
 SPWI
+
+
+# M: Sept 18, 2023
+- google scholar: "peer grading" + "college" 
+    - use of computer science in the search yields a lot of hybrid autograding and peer review systems, while that is likely interesting, I'm unsure that is what I'm interested in reviewing at this time
+    - `https://www.lifescied.org/doi/full/10.1187/cbe.10-03-0017`
+    - `https://www.tandfonline.com/doi/abs/10.1207/s15326977ea1101_1?casa_token=Cphj-eIhOKIAAAAA:KaDPaTa6kT8bjyIrPVA5t58CdcInqkuU87nfIMxnz9sbNsDNdfqhRESMtA9_rAJHEBfhSU-Cz4cSWg`
+        - self grading isn't very helpful and peer grading is not... I'm surprised by this. need to read further
+SPWI
+
+# U: Sept 17, 2023
+- Evan's recent exploration into peer grading has inspired me to explore this topic further for CS education. I see this as something that could potentially scale. In my own experience this requires motivated students and so I certainly caution using this in certain classes. It can lead to scenarios where the blind lead the blind and the unmotivated demotivate the motivate. Personally, I've rarely found myself in peer-review/peer-grading that has been done well, but I'd bet some people have written about this.
+- google scholar: "peer review" + "college" + "computer science"
+    - `https://dl.acm.org/doi/abs/10.1145/364447.364564?casa_token=zPb83Ro4f_UAAAAA:_6wbz6ygBy_h0kynnkTbHxO8x2dER_8V1Blw9gZWikwvio5WRRvp4CsqHKs6DdswouaB4EqFdn_Dkw`
+        - 2001
+        - emphasis on www distributed grading and how its important to help students understand how to use the tool
+        - great for helping distance and in-person student working together
+        - potentially: the best work can be saved and used as example in future terms: NOTE: you need to get permission for this, but its worth asking students in the current semester.
+        - uses double blind reviews, with multiple reviews and average is scored
+        - phases:
+            1. signup: limit by the topic
+            2. submit: an initial draft is submitted for early feedback
+            3. initial feedback: to make the review helpful, students need time to iterate
+            4. grading
+            5. review of review: the author needs to consider if the review was usesful, what was useful, what was not useful - can be shared out through the double-blind platform.
+            6. publishing
+        - freshmen -> graduate courses tried in CS
+        - peer reviews help build accountability for the student to complete work on time to give the reviewers time to respond. need to build in wiggle room for the author and reviewer to negotiate timeline if either is falling behind. In general this builds a soft skill for students to learn how to communicate expectations.
+        - Peer grading = PG
+- google scholar: "peer grading" + "college" + "computer science"
+    - peer review implies writing
+    - peer grading is more specific
+    - `https://dl.acm.org/doi/abs/10.1145/2676723.2677278?casa_token=8RUq03TxguEAAAAA:-Ev5nK-uXa0MoVRH0IXy3ZLSXJ-_MEBNnY2ttpf8WFDTol0sIV9kfZ55IAjp7l-9BTZVCJQ9x20Cbg`
+        - 2015
+        - 70 students enrollment on CS writing, but claims it would work on code - I'm inclined to agree
+        - students don't percieve peer feedback as being as valuable as feedback from TA or instructor
+        - Students have two groups
+            - supervised reviewer: not yet proven worthyness or lost worthy status as reviewer
+            - independent reviewer: decided as trustworthy in giving peer review
+        - calibration: students are given known quality submissions and a rubric (authored by the instructor or samples from previous semesters student work). the students give a peer review for the work. If they are close to correct in scoring, then they are marked as independent.
+        - TAs randomly review work, if things don't match expectations, then independent reviewers can have status moved to supervised and vise-versa
+        - try to pair up supervised reviewers and independent reviewers to the same assignment so if there are 2 indepent reviewers with grade agreement and the supervised reviewer independently comes to grade agreement, then we can move the supervised reviewer to independent status.
+        - Students may request a re-grade from TA, but they must state in writing why the provided peer review is not sufficient.
+    - `https://escholarship.org/uc/item/5tx38648`
+        - 2022
+        - emphasis on MOOCS and college. works with larger data sets, but I expect the findings are still valuable.
+        - "olympic average": remove highest and lowest data points, then take average
+        - rubric is very important to set the expectations of the peer review process
+        - had to be careful to let people reject review if a submission was formatted oddly, but also didn't want people just taking the assignments that are easiest to review.
+        - "While students intuitively understand that small random errors will be averaged out, they are very concerned by large errors that, they fear, will skew their overall grade"... but this wouldn't be true for local classes in the 20 - 300 student range...
+        - having the reviews be signed up for means that each writeup gets a review before each writeup gets a second review and so on...
+        - review feedback/review of review scale: 1. factually wrong/bogus 2. unhelpful 3. neutral 4. somewhat helpful 5. very helpful 
+            - "There is clear evidence of tit-for-tat behavior when students give feedback on the reviews they receive"
+            - to be clear, the review feedback is likely similar to the grade given by the reviewer, a high grade gets a high feedback score and same for low grade and low feedback score.
+            - In this study and its specific environment this was not found to be helpful. This conflicts with the smaller study detailed above. Based on previous readings on the value of self reflection in learning, I believe that the review feedback can be a valuable part of the autor and reviewers learning experience, but I see why we wouldn't want to tie the reviewers grade in the course to this metric.
+    - `https://www.lernspielwiese.com/cms/lib07/MN01909547/Centricity/Domain/272/The%20Year%20of%20the%20MOOC%20NY%20Times.pdf`
+        - notes on the challenge of peer grading. they do 5 reviews for each assingment, but it can be a "14 yo from africa without the prereqs" and this drags down the quality of discussion in the MOOK.
+        - Coursera is working on software to help gague the quality of peer reviewers.
+
+
+# F: Sept 15, 2023
+## ungrading
+- I attended a great talk on ungrading during the CTL fall intensive with Michaele Ferguson. History is complex, but most recent advancements come from CoVid era and allowing teachers to give more value to students with better use of time for the prof. When executed well this means the students focus more on what they are learning and less on the points they are earning. The talk does warn about issues of scale and being uncomfortable passing on certain grading roles to TAs (reminds me a lot of what the department tends to expect of TAs during grading interviews). There is a focus on writing self-reflections on what the student is learning and that reflection itself is a part of the total grade.
+- a colleciton of resources https://drive.google.com/drive/folders/1wV9GCLXb7F73GWDroxJ_k7UFy-OqdlAN
+### Specification grading
+- https://www.insidehighered.com/views/2016/01/19/new-ways-grade-more-effectively-essay
+    - good overview
+    - need to be specific on what is good enough, better and not acceptable
+    - need to build in some flexibility - great to have the ability to resubmit
+    - describes as "bundles" to be satisfacory in all bundles to get an A in the course
+    - doesn't talk about buy in, but I feel certain, that if this is not status quo of the institution you need to spend a decent amount of time on buy in from the students throughout the term like what we see in standards based grading.
+    - THOUGHT: buy in is always important and it must be woven into the core of the course to be successful
+- https://justtv.wordpress.com/2016/02/16/rethinking-grading-an-in-progress-experiment/
+    - specification grading as an alternative to contract grading
+    - learning goals of the course and separation into bundles. students must get satisfactory state in certain number of bundles to get the grade of choosing.
+    - THOUGHT: can I sample syllabus to each of these methods for CSCI 3155 as my expertise and use this as samples of what this **could** look like.
+### Ungrading
+- https://wvupressonline.com/node/844
+    - book on many teachers experiences with ungrading
+- https://www.jessestommel.com/how-to-ungrade/
+    - author claim: grading is bad and we all know that to be true
+    - grading is often something that takes time away form what the prof cares about
+    - institutional pressure and history is important to this. A lot of grading methods do not explore critical thinking and what we really want our students to be capable of beyond the classroom.
+    - emphasis on self-reflection and self evaluation
+        - THOUGHT: this should also be super important to help the students know their own value and better handle discussions of raises and more in the 'real world'.
+    - the self evaluation more often has people under grading themselves then overgrading. We give the student that power. if the student massively undergrades themselves then we step in and discuss with them if that is right and why that isn't right.
+    - contract grading is an option: we can negotiate these. it is clear about what students must do to succeed
+    - students can write their own rubrics
+    - at 300 students you can write a letter ot the full class about trend s in the course rather than working with each student individually.
+- https://www.insidehighered.com/news/2019/04/02/professors-reflections-their-experiences-ungrading-spark-renewed-interest-student
+    - culture and stress of ungrading is hard for the prof as well. what will your peers think of you if you "ungrade". what will the department do if you give students the grades they self report?
+    - it is rare to have students give themselves a higher grade then they deserve.
+    - likely won't work just for the prof at 200/300 students. you would need triage to send the student to the right support and feedback on the course.
+    - one example of students saying they can do nothing and get an A and another student set suggesting that students cannot be trusted and they need the prof to help them manage their grading and give them some objective score.
+- https://www.jessestommel.com/ungrading-a-bibliography/
+    - the best way to start is an open discussion with students about their grading method. also important to have this conversation with peer instructors to build a community about your methods and the strengths and weeknesses of the method.
+        - this happens more in younger education, but often not emphasized at uni's - its not a part of the 40/40/20
+    - "Unconditional Parenting: Moving From Rewards and Punishment to Love and Reason." Kohn
+    - there is racism embeded in the current grading method (and other bias of gender, class and more)
+    - grades primarily motivate students to work against poor grades then actually encouraging learning.
+### grades aren't helpful
+- https://www.alfiekohn.org/article/case-grades/
+    - the use of letters as valuabtive summaries of the student understanding of the topic
+    - 80s and 90s phsych studies on students. grades actually diminish student interest in what they are learning
+    - more interested: is this going to be on the test?
+    - less interest: is that statement true?
+    - spending more focus on the goal the less thetime they can spend on actually achieving the goal? study harder can take more time to become a master
+    - cannot often measure the value of your teaching in objective quant measures
+    - the measure of how many algos a student has memorized is not the right metric
+        - PERSONAL NOTE: sometimes these algos are practicle to learn as a basis for the next step. At scale you could not give the freedom to students to find what will prepare them individually for meeting their own learning goal
+    - a comment and no grade: the student will read the comment.
+    - grades are sometimes used to CONTROL students
+    - 
+
 
 
 # R: Sept 14, 2023
@@ -237,6 +351,7 @@ SPWI
         - students getting there in only 2 - 3 X the attempts it takes the isntructor
         - data suggests that students will get there as efficiently as they can even if the attempts were not limited
     - a move from principles, to experimentation
+    - students that usegrades for competition needed time to get used to this method. once they understood the value and didn't focus on their grade they actually really enjoyed it.
     - SPWI: Lack viz for students, would this have value for students?
 
 
