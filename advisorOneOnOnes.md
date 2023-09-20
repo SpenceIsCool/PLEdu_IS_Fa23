@@ -1,4 +1,36 @@
+# T: Sept 19, 2023
+- meeting summary:
+    - May be able to pilot the proposal in future semesters. Here we are doig the first half of the paper. background, related work, methods, examples, potentially tools that help with administering the course. 
+    - Refine the scope now. control the variables by doing a cross section study of the evaluation methods of PL at different institutions. Focus on PL not as the only course this can apply to, but as a way to control the variables.
+    - the idea is that for each resource unit, we will have more students in the future, so then what in these evalution methods will scale. (context: public institutions and scale)
 
+- meeting notes
+    - Need to narrow scope quickly. do we do it directly in PL. If pivoting do that now. Premise is that PL is a hard topic to sclae. hard in way X and eaiser y Y. Refine the scope now. control the variables by doing a cross section study of the evaluation methods of PL at different institutions. Focus on PL not as the only course this can apply to, but as a way to control the variables.
+    - thoughts on PL
+        - its a code intensive course
+        - should not only evaluate student on passing automated test cases however, as this is poor measure of true understanding of the material.
+        - Evan aims for an emphasis on collaboration and active learning. Each project focuses on learning concepts. imo sometimes this is lost on students
+        - It's very important to get student buy in. Do not underestimate this process. Be ready to readdress this nearly each week in the course in a very real way that helps students connect to the goal and buy in.
+        - the course organization is complex and looking at exam weighting in isolation would be hard. I'll ignore that concept for now.
+        - inconsistent TA training which is specific to each course topic and needs of the students.
+    - less focus on the big schools in their topics, but look at how they assess their students. look at small schools and big schools and look at CUs other programs and state schools vs private vs others. those challenges and unique advantages of the schools and thir  
+    - focus on PL challenges and other institutions... control more variables. this is a case study/cross-section study in the challenges of methods of evaluation in a course like this (it is applicable to other courses, but we keep this consistent for not confusing the variables).
+    - scale is autograding, but thats not necessarily what we want. It's not the RIGHT assessment of student comprehension.
+        - autotesting is great for feedbak -imidate . but we have to move beyond that for student learning.
+    - not the exact size but the general trend of more students per supporting staff. This is good and provides value IFF this remains at a sertain level of quality.
+    - covid was a thing...
+    - interview grading is way too many resources just for cheat detection. So its a shame that students percieve it as cheating detection>
+    - first time Evan teaches around 40 - 50. teaching 3155 once per year academic year sinde spring 2009. 
+
+- Spencer planning
+    - peer grading findings and tinkering
+    - tinkering
+        - in the theme of tinkering, its come to my attention that I can develop sample syllabi for 3155 based on the methods studied and the course objectives used at various schools
+        - I have good teaching methods to consider: `U`ngraded, contract graded, standards based, traditional
+        - I need to more deeply explore the syllabus of other schools
+        - While I'm excited to explore this, I'm unclear on what I do with the syllabi after they are done. How would I validate their value? Would it make sense to find some peers for review? My personal review seems to be a good starting place, but not good enough.
+    - peer grading
+        - also... let's talk about peer grading
 
 # M: Sept 11, 2023
 - Don’t spend too muc time on one thing

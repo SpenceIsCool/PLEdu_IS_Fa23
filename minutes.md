@@ -1,42 +1,46 @@
 # TODO:
-- explore peer grading
+- What is the role of Ai in this? modern findings about chatgpt to assist in scale?
+- ISLS: international society of learning scientists. mrore on the peagody and theory
 - sample syllabus
-- jessestommel see youtube collection
-- ?peer review? undergrad large scale technical?
-- more on: behavior thery, cognitive theory, constructivist theory (maybe)
-- look at the pair programming papers
 - "If you get interested in interactive editing, you can talk with Matthew Hammer. He’s a former prof here having taught 3155 once or maybe twice. He still lives in the area."
 - Williams and Kessler [2000] on pair programming
-- how many of our courses use interview grading today? slack?
-- Lookup Amy Ko work and see what readings are relevant to my work
-- Norman Ramsey (Tufts) has a new PL textbook. class: https://www.cs.tufts.edu/comp/105-2019s/notes.html Can get at our library?
-- find papers sighting the linked papers of: https://dl.acm.org/doi/pdf/10.5555/771322.771335 (the linked papers are old, but I bet people have taken it further)
 - Heubrach & Krinsky [ 9]: Silvia Heubach and Sharona Krinsky. 2020. Implementing Mastery-Based Grading at Scale in Introductory Statistics. PRIMUS (2020), 1–17. https://doi.org/10.1080/ 10511970.2019.170057
     - https://www.tandfonline.com/doi/abs/10.1080/10511970.2019.1700576?journalCode=upri20
-    - 
 - 24:  Michael Shindler, Matt Ferland, Aaron Cote, and Olivera Grujic. 2020. Experience Report: Preemptive Final Exams for Computer Science Theory Classes. J. Comput.  Sci. Coll. 35, 10 (April 2020), 9–14. https://dl.acm.org/doi/abs/10.5555/3417699.  3417700
     - https://dl.acm.org/doi/abs/10.5555/3417699.3417700
-    - 
-- Katherine E. Stange. 2018. Standards-based Grading in an Introduction to Abstract Mathematics Course. PRIMUS 28, 9 (2018), 797–820. https://doi.org/10.1080/ 10511970.2017.1408044
-    - https://www.tandfonline.com/doi/full/10.1080/10511970.2017.1408044
-    - seem interesting, but lower priority to me
-- 5: Jason Elsinger and Drew G. Lewis. 2019. Applying a Standards-Based Grading Framework Across Lower Level Mathematics Courses. PRIMUS (2019), 1–23.  https://doi.org/10.1080/10511970.2019.1674430
-    - https://www.tandfonline.com/doi/full/10.1080/10511970.2019.1674430
-    - seem interesting, but lower priority to me
-    - specific notes on large classes
-    - should have practical notes
-- 12: Drew D Lewis. 2020. Gender Effects on Re-assessment Attempts in a Standards- Based Grading Implementation. PRIMUS 30 (2020), 539–551. https://doi.org/10.  1080/10511970.2019.1616636
-    - https://www.tandfonline.com/doi/full/10.1080/10511970.2019.1616636
-    - facinating concept on diversity impacts of the method of teaching...
-- the value of anonymity in the classroom. consider the notes on piazza as value specifically for women in STEM.
-- sigcse: cs education (10 pages): undergrad profs and their experience. support college in XYZ, actionaable.
-- ISLS: international society of learning scientists. mrore on the peagody and theory
-- from calendar
-    - justice in PL (Amy Ko Washington University as a starting place)
-- https://www.hsmitchellbuck.com/on ungrading
 - Contract grading: Asao B. Inoue: https://asaobinoue.blogspot.com/p/labor-based-grading-contract-resources.html
 - https://wac.colostate.edu/docs/books/labor/chapter1.pdf
 - http://craftinginterpreters.com/
+- https://dl.acm.org/doi/abs/10.1145/1026487.1008030?casa_token=9PP9IixY1wEAAAAA:faJTzmh-1oNvQAyLgs_jcRYL9G9KIjNNWmjzvNxcpmoKitXxF8tuu3_HV48m9Cb9PTocG-HPhfQ9Dw
+- google scholar: "peer grading" + "college" 
+    - use of computer science in the search yields a lot of hybrid autograding and peer review systems, while that is likely interesting, I'm unsure that is what I'm interested in reviewing at this time
+    - `https://www.lifescied.org/doi/full/10.1187/cbe.10-03-0017`
+    - `https://www.tandfonline.com/doi/abs/10.1207/s15326977ea1101_1?casa_token=Cphj-eIhOKIAAAAA:KaDPaTa6kT8bjyIrPVA5t58CdcInqkuU87nfIMxnz9sbNsDNdfqhRESMtA9_rAJHEBfhSU-Cz4cSWg`
+        - self grading isn't very helpful and peer grading is not... I'm surprised by this. need to read further
+- started
+    - how many of our courses use interview grading today? slack?
+- later
+    - how to write a great rubric
+    - how to manage the physical space in large classrooms?
+- way later
+    - more on: behavior thery, cognitive theory, constructivist theory (maybe)
+    - Lookup Amy Ko work and see what readings are relevant to my work
+    - Norman Ramsey (Tufts) has a new PL textbook. class: https://www.cs.tufts.edu/comp/105-2019s/notes.html Can get at our library?
+    - find papers sighting the linked papers of: https://dl.acm.org/doi/pdf/10.5555/771322.771335 (the linked papers are old, but I bet people have taken it further)
+    - Katherine E. Stange. 2018. Standards-based Grading in an Introduction to Abstract Mathematics Course. PRIMUS 28, 9 (2018), 797–820. https://doi.org/10.1080/ 10511970.2017.1408044
+        - https://www.tandfonline.com/doi/full/10.1080/10511970.2017.1408044
+        - seem interesting, but lower priority to me
+    - 5: Jason Elsinger and Drew G. Lewis. 2019. Applying a Standards-Based Grading Framework Across Lower Level Mathematics Courses. PRIMUS (2019), 1–23.  https://doi.org/10.1080/10511970.2019.1674430
+        - https://www.tandfonline.com/doi/full/10.1080/10511970.2019.1674430
+        - seem interesting, but lower priority to me
+        - specific notes on large classes
+        - should have practical notes
+    - 12: Drew D Lewis. 2020. Gender Effects on Re-assessment Attempts in a Standards- Based Grading Implementation. PRIMUS 30 (2020), 539–551. https://doi.org/10.  1080/10511970.2019.1616636
+        - https://www.tandfonline.com/doi/full/10.1080/10511970.2019.1616636
+        - facinating concept on diversity impacts of the method of teaching...
+    - the value of anonymity in the classroom. consider the notes on piazza as value specifically for women in STEM.
+    - justice in PL (Amy Ko Washington University as a starting place)
+    - https://www.hsmitchellbuck.com/on ungrading
 - SPWI
 
 
@@ -52,13 +56,69 @@
 SPWI
 
 
-# M: Sept 18, 2023
-- google scholar: "peer grading" + "college" 
-    - use of computer science in the search yields a lot of hybrid autograding and peer review systems, while that is likely interesting, I'm unsure that is what I'm interested in reviewing at this time
-    - `https://www.lifescied.org/doi/full/10.1187/cbe.10-03-0017`
-    - `https://www.tandfonline.com/doi/abs/10.1207/s15326977ea1101_1?casa_token=Cphj-eIhOKIAAAAA:KaDPaTa6kT8bjyIrPVA5t58CdcInqkuU87nfIMxnz9sbNsDNdfqhRESMtA9_rAJHEBfhSU-Cz4cSWg`
-        - self grading isn't very helpful and peer grading is not... I'm surprised by this. need to read further
-SPWI
+# W: Sept 20, 2023
+- course growth over time
+    - `https://classes.colorado.edu/`
+    - Fa23: 132
+    - Sp23: 260
+    - Fa22: 177
+    - Sp22: 210
+    - Fa21: 68
+    - Sp21: 240
+    - Fa20: 78
+    - Sp20: 231
+    - Fa19: 209
+    - Fa15 - Sp17: ~100 (from Spencers experience)
+    - Sp09: ~50 (from Evan)
+- `https://cra.org/wp-content/uploads/2016/05/2015-Taulbee-Survey.pdf`
+    - 2015 data on mass growth
+- `https://cra.org/crn/2023/05/cra-2022-taulbee-survey-record-doctoral-degree-production-more-increases-in-undergrad-enrollment-despite-increased-degree-production/`
+    - 2022 data on mass growth
+    - CS enrollment changes
+        - 04.2% in 2022
+        - 10.0% in 2021
+        - 06.6% in 2020
+        - 04.8% in 2019
+        - 7.5, 1.6
+- `https://cra.org/wp-content/uploads/2019/05/2018_Taulbee_Survey.pdf`
+    - degree production chart on page 23
+    - matchsticks on page 24 has great info as well
+- are there documented signs of slowing? Note that CU has opened many degrees that segment the original student population. without INFO and TAM and coming robotics degree there is a chance that many of these students would be in CS. Like it used to be that CS was not a degree on it's own, but rather a subdiscipline in computer and electrical engineering at many institutions
+- reach out on slack to poll how many classes use interview grading. reached out...
+- sigcse: cs education (10 pages): undergrad profs and their experience. support college in XYZ, actionaable.
+    - `https://www.sigcse.org/`
+    - "SIGCSE provides a forum for educators to discuss issues related to the development, implementation, and/or evaluation of computing programs, curricula, and courses, as well as syllabi, laboratories, and other elements of teaching and pedagogy."
+- google scholar: sigsce scale of teaching
+    - `https://dl.acm.org/doi/abs/10.1145/3017680.3017800?casa_token=zzVkwwLejZkAAAAA:ChfTB8CEnK3CDe-Brdbus9BF7L5WcPIlDmEHiDDK5z3-O7pnZBSMzDy-Tdu9V45ifaSVOSGwkW9HXg`
+        - peer teachers (like CAs) are very valuable to have a recent course grad help current students. but it's important that these peer teachers have support and that current students can grow a peer teaching relationship rather than hopping one to the other until the assignment is done.
+        - starts with a webtool to resolve issues of SUPER busy OH for peer teaching (solved with whiteboards or paper tracking)
+        - piazza is known to help
+        - gradescope is great for consistent grading at scale
+        - one discrete interaction at a time. requires students self reflection on what they are doing and what they were trying. then has a feedback compoenent that isn't required. requires that the teacher lists if the problem was resolved or some other state. This has a benefit of the teacher being reflective as well.
+        - "the top 5% of students who most heavily used office hours used 50% of total service time provided by peer teacher"
+        - challenges: High waiting times, long interactions, unequal distirbution of intstruction times
+        - revision: get to 7 - 10 minute discrete events and force the student to come prepared for the discussion.
+        - also tracks the relationships of the teachers and students so we can improve events.
+- `https://mydigitalhand.org/`
+    - the log in page is broken on firefox...
+    - ditto safari
+    - (╯°□°)╯︵ ┻━┻
+    - but still a really cool idea.
+    - without the tool, we can encourage this as a best practice
+- Google scholar: "sigcse" + "scale" + "programming" + "undergraduate"
+    - dates back to the 70s: `https://dl.acm.org/doi/pdf/10.1145/873641.873646`
+    - and the 80s is specific on pl...: `https://dl.acm.org/doi/pdf/10.1145/989274.989276`
+- refined: "sigcse" + "scale" + "programming languages" + "undergraduate"
+    - filter to since 2023
+    - `https://scholar.google.com/scholar?hl=en&as_sdt=0%2C6&as_ylo=2023&q=%22sigcse%22+%2B+%22scale%22+%2B+%22programming+languages%22+%2B+%22undergraduate%22&btnG=`
+- SPWI
+
+
+# T: Sept 19, 2023
+- Did not get work done on Monday 9/19
+- In preparation for meeting with Evan this week I've written up some notes to keep me on track during our meeting.Lets see if that helps.
+- Reviewing last weeks 1:1, I realized that I hadn't started writing the paper yet. I've now made a base `.tex` file. I need to dig into this deeper. It's a large and intimidating endevor, but the minimal possible step was making the file and that is done plus some section headers and some starting filling text. Unsure if I should keep that here in git, or go over to OverLeaf so I can visualize the paper. Something to consider.
+- I'm not keen on the lack of english language support here in my current setup (vim in .md files). Perhaps I should start to transition my lab notebook to Jupyter Notebooks? It's worth trying...
 
 # U: Sept 17, 2023
 - Evan's recent exploration into peer grading has inspired me to explore this topic further for CS education. I see this as something that could potentially scale. In my own experience this requires motivated students and so I certainly caution using this in certain classes. It can lead to scenarios where the blind lead the blind and the unmotivated demotivate the motivate. Personally, I've rarely found myself in peer-review/peer-grading that has been done well, but I'd bet some people have written about this.
