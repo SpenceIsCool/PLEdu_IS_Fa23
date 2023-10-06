@@ -56,6 +56,49 @@
 SPWI
 
 
+# F: Oct 06, 2023
+- took a break from research while on a trip and getting back into normal after return
+- I want to work on syllabus creation, but first, I think it would be wise to review effective methods of writing syllabi
+- google scholar "syllabus design"
+- Three Approaches to Task-Based Syllabus Design
+    - https://onlinelibrary.wiley.com/doi/abs/10.2307/3587368
+    - 1992
+    - three types: procedural, process, task
+    - earlier types: lexical, structure, notional, functional, and relational
+    - the new types focus on what is known about human leaning and second language learning in particular
+    - old paper and difficult for me to read with a screen reader, since the paper is old, I'll look for more modern papers that may yet cite this.
+- filter on since 2019
+- Award-winning faculty online teaching practices: Course design, assessment and evaluation, and facilitation
+    - https://www.sciencedirect.com/science/article/pii/S1096751618305669?casa_token=7Mb_UEMDwoEAAAAA:-uCL60f3WgAUGyVUjbrAhnEQf94Smg0v5QS8-spEioK9kLj_z0x7Y8WZSPPUic5YM012KQhJf1E
+    - 2019
+    - to me, online = scale, so the methods used here should be valuable to my research
+    - discusses specific challenges of change to online learning and the trend to have more courses online
+    - looks at faculty that are successful in teaching online
+    - online courses are typically designed and reviewed in a way that they are refined over time
+    - multiple choice is valid, but there is so much value in having students collaborate and get feedback from course staff on their work from time to time. Important to not have the students feel isolated
+    - students percieve more value from instructor lead facilitation as apposed to student lead events
+    - very designed in advance and starts with the syllabus. what do you expect students to be able to do, how do you expect them to do it. focus on alignment of the syllabus, learning outcomes, assignments, learning activies and learning technologies available. Focus on consisten organization.
+        - what are the goals of the unit of work
+        - what are the deadlines for the unit
+        - what are realistic expectations about the amount of time it should take to complete the work for the unit
+    - important to have students have a way to interact with eachother - build a sense of community. can be creative, can be writing forums, can include voice threads or videos. personal thought: can include required zoom calls or in person meetings between students. creative fasion of presenation can help students express material mastery on their own terms.
+    - rubrics are a must - see other readings on rubric methods
+    - discussions of peer review within faculty before course publication, while logistically challenging, this would be valuable for in person teaching as well.
+    - timely feedback and regular checks on message forums is important to the students (also true for in person classes). likewise, need availability from the staff. LOTS of work up front can make it easier and lower workload later in the class. Use of video and inperson discussion is great to give body language and voice tone rather than just some text that can be interpreted different ways by students.
+- Changing Instructor's Roles in Virtual Worlds
+    - https://www.learntechlib.org/p/106706/
+    - 2008
+    - linked in "Award-winning faculty online teaching practices: Course design, assessment and evaluation, and facilitation"
+    - https://www.researchgate.net/profile/Zane-Berge/publication/285753606_Changing_instructor's_roles_in_virtual_worlds/links/5a1a381f4585155c26ac5b8e/Changing-instructors-roles-in-virtual-worlds.pdf
+    - instructor roles are : pedagogical, coscial, managerial, and technical
+    - a push away from instructro as expert to instructor as facilitator of students creating valuable content to demonstrate their mastery of the material. emphasis on remote learning, but seems valuable to in person learning - to me
+    - students are digital natives and the traditional classroom may not make sense to them (e.g. they can google and correct you on the fly), so instructor methods should evolve accordingly
+    - personal challenge: how do we get the less engaged student to engage in class, how do we gently ask students that contribute a lot to step back and let some other students contribute before they themselves do.
+    - SPWI: berge 1995, 2008
+
+    
+SPWI
+
 # W: Sept 20, 2023
 - course growth over time
     - `https://classes.colorado.edu/`
@@ -252,7 +295,7 @@ SPWI
     - Stanford
 
 
-# M: Spet 11, 2023
+# M: Sept 11, 2023
 - one on one with evan (meetings recorded in other document)
 
 

@@ -7,6 +7,9 @@
     - My thoughts on the process so far
 
 
+# Monday October 09
+- Reflection: thinking about how to teach effectively at scale, there are two obvious trajectories to explore. 1. what are effective ways to teach online. 2. what are effective ways to bring Ai to the classroom. In exploring online teaching I see obvious trends in strong peer-reviewed course design with instructor as facilitator of course discussions and manager of student expectations and timelines with reasonable reminders of upcoming due dates. In exploration of the role of Ai SPWI.
+
 # Monday September 25
 - Techincal: In the second two weeks I focused on various grading methods that adapt course structures away from traditional methods of grading. I also attended one on ones with Evan to understand how to better manage the workload over the long scope of the semester. More specific details:
     - exploration of PL course structures at Technical Unieristy of Munich, Universite Paris Saclay, Stanford
