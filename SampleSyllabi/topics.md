@@ -1,0 +1,11 @@
+- functional vs imperitive programming models
+- higher ordered functions
+- functional list and tree data structures
+- AST
+- parsing
+- grammars
+- Big-O speed of operations
+- short-circuit evalution
+- pass by semantics: value, name, reference and more
+- history of programming principles
+- 

@@ -1,5 +1,4 @@
 # TODO:
-- What is the role of Ai in this? modern findings about chatgpt to assist in scale?
 - ISLS: international society of learning scientists. mrore on the peagody and theory
 - sample syllabus
 - "If you get interested in interactive editing, you can talk with Matthew Hammer. He’s a former prof here having taught 3155 once or maybe twice. He still lives in the area."
@@ -53,7 +52,50 @@
 
 
 # D: Month dd, yyyy (template)
-SPWI
+- SPWI
+
+# W: Oct 18, 2023
+- work on paper: https://www.overleaf.com/project/652ff66cfdab616bf3912f7e
+- As even recommended, it would be best to wrtiet he paper as you go. Pro tip for the next time I do this, start with overleaf... Put reading notes directly into that project. You can still share the overleaf with others for review.
+
+# T: Oct 17, 2023
+- work on syllabus construction.  standards based: https://docs.google.com/document/d/1wz4UVYWJGBIn52DULF41cfAF8oFjqxjihrK0NgaxeQg/edit 
+- https://arxiv.org/pdf/2204.12046.pdf
+
+# M: Oct 16, 2023
+- work on syllabus construction.
+    - contract grading syllabus: https://docs.google.com/document/d/1iVil0pe4L8RWSADxUX75FXr29xS8x4n5ueYmxGM-G7s/edit?usp=drive_web&ouid=117500589426484520616
+    - standards based: https://docs.google.com/document/d/1wz4UVYWJGBIn52DULF41cfAF8oFjqxjihrK0NgaxeQg/edit 
+- SPWI
+
+# F: Oct 12, 2023
+- work on syllabus construction. contract grading syllabus: https://docs.google.com/document/d/1iVil0pe4L8RWSADxUX75FXr29xS8x4n5ueYmxGM-G7s/edit?usp=drive_web&ouid=117500589426484520616
+
+# R: Oct 11, 2023
+- work on syllabus construction. ungrading syllabus: https://docs.google.com/document/d/1eAKPqKZwhgn7n0nlDInnuG2wp1Z90RLU4DHo0Hl-xJk/edit?usp=drive_web&ouid=117500589426484520616
+
+# W: Oct 10, 2023 (template)
+- work on syllabus construction. my personal syllabus preferences: https://docs.google.com/document/d/1eAKPqKZwhgn7n0nlDInnuG2wp1Z90RLU4DHo0Hl-xJk/edit?usp=drive_web&ouid=117500589426484520616
+
+# M: Oct 09, 2023
+- What is the role of Ai in this? modern findings about chatgpt to assist in scale?
+- "ai for large university classrooms" filter since 2022
+    - https://scholar.google.com/scholar?hl=en&as_sdt=0%2C6&as_ylo=2022&q=ai+for+large+university+classrooms&btnG=
+- Employing Adaptive Learning and Intelligent Tutoring Robots for Virtual Classrooms and Smart Campuses: Reforming Education in the Age of Artificial Intelligence
+    - https://link.springer.com/chapter/10.1007/978-981-19-2980-9_32
+    - Ashraf Alam
+    - 2022
+    - adaptive learning and videos to complete the loop (ALEKS)
+    - teaching evaluation and human error in grading
+    - Virtual classrooms and smart classrooms in gerneral
+    - Smart Campus (face recognision for security)
+    - intelligent tutoring robots (1960s first teaching robot): assistive learning and more
+    - better ability for students to focus on what they want to get out of the class and convey information in the way that works best for the student
+    - China has lead the way on this in K-12
+    - can help faculty reprioritize to lead students learning rather than focusing on grading things. can use facial recognition to take attendance even.
+    - great to provide equity with distance learning to under-resourced areas
+    - typical Ai concerns on ethics and equity (recall, its data driven and some areas don't have the data or have highly biased data)
+    - NOTES: that students should have an emphasis on collaborative learning and finding peers to work with in advancing their mastery of the material. The Ai could assist in this - not listed in the reading, but it can help form pairs and improve peer to peer interactions over time. 
 
 
 # F: Oct 06, 2023
@@ -94,10 +136,6 @@ SPWI
     - a push away from instructro as expert to instructor as facilitator of students creating valuable content to demonstrate their mastery of the material. emphasis on remote learning, but seems valuable to in person learning - to me
     - students are digital natives and the traditional classroom may not make sense to them (e.g. they can google and correct you on the fly), so instructor methods should evolve accordingly
     - personal challenge: how do we get the less engaged student to engage in class, how do we gently ask students that contribute a lot to step back and let some other students contribute before they themselves do.
-    - SPWI: berge 1995, 2008
-
-    
-SPWI
 
 # W: Sept 20, 2023
 - course growth over time
@@ -154,7 +192,6 @@ SPWI
 - refined: "sigcse" + "scale" + "programming languages" + "undergraduate"
     - filter to since 2023
     - `https://scholar.google.com/scholar?hl=en&as_sdt=0%2C6&as_ylo=2023&q=%22sigcse%22+%2B+%22scale%22+%2B+%22programming+languages%22+%2B+%22undergraduate%22&btnG=`
-- SPWI
 
 
 # T: Sept 19, 2023
@@ -412,6 +449,7 @@ SPWI
 
 # T: September 5, 2023
 - READING: Experience Report: Standards-Based Grading at Scale in Algorithms
+    - https://arxiv.org/abs/2204.12046
     - BA has Algo required in Fa19, but that means they wouldn't take it that semester... (personal thought)
     - grades should communicate to students their current command of the content and progress with respect to well-defined stan- dards [25]
     - standards require at least one timed event for each standard

@@ -8,7 +8,12 @@
 
 
 # Monday October 09
-- Reflection: thinking about how to teach effectively at scale, there are two obvious trajectories to explore. 1. what are effective ways to teach online. 2. what are effective ways to bring Ai to the classroom. In exploring online teaching I see obvious trends in strong peer-reviewed course design with instructor as facilitator of course discussions and manager of student expectations and timelines with reasonable reminders of upcoming due dates. In exploration of the role of Ai SPWI.
+- Techinal: a light two weeks due to personal leave and issues coming back up to spead. read:
+    - Three Approaches to Task-Based Syllabus Design
+        - gives ideas about kinds of syllabus to review. old paper
+    - Award-winning faculty online teaching practices: Course design, assessment and evaluation, and facilitation
+    - Changing Instructor's Roles in Virtual Worlds
+- Reflection: thinking about how to teach effectively at scale, there are two obvious trajectories to explore. 1. what are effective ways to teach online. 2. what are effective ways to bring Ai to the classroom. In exploring online teaching I see obvious trends in strong peer-reviewed course design with instructor as facilitator of course discussions and manager of student expectations and timelines with reasonable reminders of upcoming due dates. I did not get a chance to explore Ai in the classroom yet. I'm upset with the lack of progress during these two weeks. I'll have to make up for it in furture sprints.
 
 # Monday September 25
 - Techincal: In the second two weeks I focused on various grading methods that adapt course structures away from traditional methods of grading. I also attended one on ones with Evan to understand how to better manage the workload over the long scope of the semester. More specific details:
