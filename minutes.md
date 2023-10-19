@@ -54,9 +54,16 @@
 # D: Month dd, yyyy (template)
 - SPWI
 
+# R: Oct 19, 2023
+- Attended "Talkapalooza 2.0" to see more on how we could present complex knowledge.
+- SPWI
+
 # W: Oct 18, 2023
 - work on paper: https://www.overleaf.com/project/652ff66cfdab616bf3912f7e
 - As even recommended, it would be best to wrtiet he paper as you go. Pro tip for the next time I do this, start with overleaf... Put reading notes directly into that project. You can still share the overleaf with others for review.
+- Example of spec grading: https://www.youtube.com/watch?v=cERmD6Cv3OM
+- Another youtube video on spec grading: https://www.youtube.com/watch?v=i0mZ-XljH4M
+- good discussion with peer (Bhoomika) regarding how to move forward on my paper. Note: the goal is not to just generally teach at scale, but rather to meet a high standard of excellence, or rather a better performance by the students. Hard part is defining what is that metric of performance that is the same in multiple teaching methods? It's not necessarily reasonable to just give the students the same final exam with different course structures and call that a measure of "student success".
 
 # T: Oct 17, 2023
 - work on syllabus construction.  standards based: https://docs.google.com/document/d/1wz4UVYWJGBIn52DULF41cfAF8oFjqxjihrK0NgaxeQg/edit 
@@ -66,7 +73,6 @@
 - work on syllabus construction.
     - contract grading syllabus: https://docs.google.com/document/d/1iVil0pe4L8RWSADxUX75FXr29xS8x4n5ueYmxGM-G7s/edit?usp=drive_web&ouid=117500589426484520616
     - standards based: https://docs.google.com/document/d/1wz4UVYWJGBIn52DULF41cfAF8oFjqxjihrK0NgaxeQg/edit 
-- SPWI
 
 # F: Oct 12, 2023
 - work on syllabus construction. contract grading syllabus: https://docs.google.com/document/d/1iVil0pe4L8RWSADxUX75FXr29xS8x4n5ueYmxGM-G7s/edit?usp=drive_web&ouid=117500589426484520616
