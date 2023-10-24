@@ -7,6 +7,21 @@
     - My thoughts on the process so far
 
 
+# Monday October 23
+- Technical: Over the past two weeks I have taken a break from reading about what others have done and focused on the construction of sample syllabus for principles of programming languages under different (un)grading models, additionally I have begun constructions of the midsemester paper and presentation
+    - draft construction of the traditional syllabus
+    - draft construction of a standards based syllabus
+    - draft construction of a contract grading syllabus
+    - draft construction of a ungraded reflective based syllabus
+    - draft construction of a personal typical syllabus
+    - continued effort on writing the midsemester paper, including the formating of all citations gathered so far and initial structure of desired essay
+- Reflective
+    - Certainly a mistake on my end to put the midsemester presentation at the end of October, this actually much later in the semester than I had initially realized. In future terms I would recommend to draft the indepent study agreement to give the mid-semester presentation at week 7 or 8. Due to conference logistics, we are going to do the presentation Novemeber 3. This is scheduled and the slip has been agreed upon between myself and Evan.
+    - As I work on writing the paper, I find myself nervous that I'm uncertain exactly what it is that I want to say coming into the first formal assesment of my efforts for the semester. I don't believe that I'll be surprised by the feedback that I receive, but I am frustrated that I don't have more to show for my efforts and that I don't have a deep enough understanding of my research to know exactly what it is that I want to say. I suppose this is part of the process and common enough in doing research. I want to trust the process, but I am nervous. Two things that I am trying to remind myself of:
+        - reading a paper is having a discussion with someone from the past - so the paper should be written to support that goal
+        - The paper is not a representation of all the experiments attempted, but rather a selection of the experimentation that supports some hypothesis or discussion prompt for the reader. It should excite the reader to learn more about the topic.
+
+
 # Monday October 09
 - Techinal: a light two weeks due to personal leave and issues coming back up to spead. read:
     - Three Approaches to Task-Based Syllabus Design

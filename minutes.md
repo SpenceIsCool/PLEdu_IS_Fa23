@@ -1,4 +1,5 @@
 # TODO:
+- https://www.davidjoyner.net/books/ 
 - ISLS: international society of learning scientists. mrore on the peagody and theory
 - sample syllabus
 - "If you get interested in interactive editing, you can talk with Matthew Hammer. He’s a former prof here having taught 3155 once or maybe twice. He still lives in the area."
@@ -54,13 +55,38 @@
 # D: Month dd, yyyy (template)
 - SPWI
 
+
+# M: Oct 23, 2023
+- continued effort on paper: https://www.overleaf.com/project/652ff66cfdab616bf3912f7e
+- From the instructional staff slack regarding interview grading
+    - CSCI 4253/5253 Data Center Scale Computing (from a current student perspective)
+        - ~10 min session with TA
+        - Scheduling via Moodle
+        - Meeting via Zoom
+        - Walkthrough and explanation of our code to help confirm understanding (and that it is our code)
+        - Answer conceptual questions from the course content
+        - Assignment points awarded based on above
+    - CSCI 2270 - Data Structures
+        - Final project is interview graded.
+        - First there is a take home project, which the students complete and then sign up for interview grading slots.
+        - As TAs. we have the following set of grading params
+        - Code runs correctly and is well commented.
+        - Around 3 Core questions about understanding of the concepts and implementation of important functions.
+        - A bunch of optional questions (around 7-8) out if which we ask around 3.
+        - We put in our observations for each of the questions and grade them as per a rubric discussed with Profs
+
+
+# F: Oct 20, 2023
+- continuing work on writeup: https://www.overleaf.com/project/652ff66cfdab616bf3912f7e
+    - continuing to integrate citations: pickup Sept 20, 2023
+    - getting a clearer sense of the thesis: EFFECTIVE education at ever-increasing SCALE
+
 # R: Oct 19, 2023
 - Attended "Talkapalooza 2.0" to see more on how we could present complex knowledge.
-- SPWI
 
 # W: Oct 18, 2023
 - work on paper: https://www.overleaf.com/project/652ff66cfdab616bf3912f7e
-- As even recommended, it would be best to wrtiet he paper as you go. Pro tip for the next time I do this, start with overleaf... Put reading notes directly into that project. You can still share the overleaf with others for review.
+- As Evan recommended, it would be best to wrtiet he paper as you go. Pro tip for the next time I do this, start with overleaf... Put reading notes directly into that project. You can still share the overleaf with others for review.
 - Example of spec grading: https://www.youtube.com/watch?v=cERmD6Cv3OM
 - Another youtube video on spec grading: https://www.youtube.com/watch?v=i0mZ-XljH4M
 - good discussion with peer (Bhoomika) regarding how to move forward on my paper. Note: the goal is not to just generally teach at scale, but rather to meet a high standard of excellence, or rather a better performance by the students. Hard part is defining what is that metric of performance that is the same in multiple teaching methods? It's not necessarily reasonable to just give the students the same final exam with different course structures and call that a measure of "student success".
