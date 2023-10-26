@@ -52,8 +52,38 @@
 - SPWI: a cursor set
 
 
+
 # D: Month dd, yyyy (template)
 - SPWI
+
+
+
+# R:: Oct 26, 2023
+- continued effort on paper: https://www.overleaf.com/project/652ff66cfdab616bf3912f7e
+- I finally have a sense of what I want to say and how to say it. Need to continue working on that.
+- I have a few sources to find as I go
+
+
+# T:: Oct 24, 2023
+- continued effort on paper: https://www.overleaf.com/project/652ff66cfdab616bf3912f7e
+    - finally able to write at length but I've lost track of the PPL theme...
+    - I'm uncertain what I want to say about effective teaching at scale. I have thoughts on these different course syllabus methods but then these do not scale...
+- questions to answer
+    - 1. what are those good scaled teaching methods? Ai, online classes?
+    - 2. do any of the big schools have syllabus like this?
+        - No, it appears that none of these schools take an ungrading approach. Each school has exams and midterms worth a lot of the students grade. It is not clear if the midterm comes with constructive feedback. The schools also have programming assignments. It is unclear if these assignments come with constructive feedback, however there is no indication of things such as interview grading or chances for re-trying assignments.
+        - My collection of links: https://docs.google.com/spreadsheets/d/1XU0SiH5rHVE-bipvRw7rX-rHS90mlWjuPQJtSVipj9o/edit#gid=0
+        - MPRI: 2 exams and 1 project
+        - TUM: complete homeworks to be eligble for a grade bonus, two exams
+        - Also TUM: 1 exam and that is all
+        - Stanford FP:  high attendance and completion of asisgnments without deadlines. Defines only a C on the page
+        - Stanford PL: homeworks (56% and 10 hours a week), midterm (19%), final (25%). All students get two late days
+        - Harvard: 50% homework, 20% midterm, 25% final, 5% participation (OH, online, in class)
+        - MIT: In person lectures, Coq proofs to mechanize grading. 
+            - "Grades are based entirely on problem sets (mostly graded by the machines), and a new one is released right after each Wednesday lecture, due a week later (or a little earlier, usually starts of class periods; see each assignment's posting for details). Late problem-set turn-in is accepted, but 20% is subtracted from the grade for every day late (that is, adjusted_percentage = baseline_percentage - 20 * days_late), starting one second after the posted deadline, so don't bet your grade on details of the server's clock! (In other words, any fractional late time is rounded up to a whole day, before applying the 20%-per-day penalty.) At the end of term, letter-grade cutoffs will be determined (per MIT rules) by analyzing how hard the assignments turned out to be, but the cutoffs won't be any less favorable than 90% for A, 80% for B, 70% for C, 60% for D."
+        - CMU FP?: "Homework will account for 50% of your grade, the midterm 20%, and the final 30%. Your final letter grade will be determined in part based on your performance relative to the rest of the class, though we have no pre-determined distribution in mind. We will also consider extra credit on the assignments and participation in recitation and lecture when determining final grades. Extra credit and participation do not count towards your numeric average, but, for example, they might cause a student on the border to receive an A instead of a B (or vice versa!)"
+        - CMU PL: "45% Programming Assignments, 20% Written Assignments, 10% Midterm Exam, 25% Final Exam "
+        - Cornell: " Evaluation will consist of eleven homework assignments, two preliminary exams, and a final exam. The breakdown for the overall course grade is as follows: Homeworks: 40% Preliminary Exams: 30% Final Exam: 25% Participation: 5% ". Exams are comprehensive. lowest homework grade dropped, but no leniency for late submissions
 
 
 # M: Oct 23, 2023
