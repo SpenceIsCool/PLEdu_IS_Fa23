@@ -1,4 +1,7 @@
 # TODO:
+- read:
+    - https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-018-0123-6?fbclid=IwAR2VvzBd5jaSdFDqD1oW7Dr0o-wYIbAY9W5bwxk2Q_ueS0IkchJPQ1HNuDA
+    - https://www.jstor.org/stable/43631999?casa_token=SD4MS1ekUkcAAAAA%3AzBPRthorV7gHxxneXf35jHdIiuK7bPqYfWcxf5lIY6HCBqJDhYSwKdzZUDkzl7GrIunEcrjzXwXZ5ED4DGHbRAe5srklgHavJeki06JMJAmOO3B89IyR
 - https://www.davidjoyner.net/books/ 
 - ISLS: international society of learning scientists. mrore on the peagody and theory
 - sample syllabus
@@ -55,6 +58,46 @@
 
 # D: Month dd, yyyy (template)
 - SPWI
+
+
+# T:: Oct 31, 2023
+- continued effort on paper: https://www.overleaf.com/project/652ff66cfdab616bf3912f7e
+- youtube ted talks on teaching:
+    -  What makes a good teacher great? | Azul Terronez | TEDxSantoDomingo 
+        - https://www.youtube.com/watch?v=vrU6YJle6Q4
+        - eat apples: become someone that the student feels comfortable giving a gift to, like an apple
+        - be willing to learn
+        - really listen to the students
+        - sing: be willing to be bad at things, like the willing to learn, be able to be a bit silly - my interpretation
+    -  Teaching Methods for Inspiring the Students of the Future | Joe Ruhl | TEDxLafayette 
+        - https://www.youtube.com/watch?v=UCFg9bcW7Bk
+        - give students Choice
+        - Collaboration, communication, critical thinking, creativity
+- emphasis on peer interviews
+- sample peer interview: https://docs.google.com/document/d/1Y-WakM1p_rhfXNGBaRWfVGumxFhBW5NuwNAEmrQpF8E/edit
+    - sample peer interview response sheet: https://docs.google.com/forms/d/1CURtCYvN8J4OiNp2lQnHpsqJkUZisMLnvHW0YKdVS_w/edit?usp=drive_web
+- begin presentation: https://docs.google.com/presentation/d/1XMd2c97-5gElv_xqk04Zhmf4a2w74d5sk-2pzGYZHvs/edit#slide=id.g295ab88daa4_0_1
+    - just layout today
+
+
+# M:: Oct 30, 2023
+- continued effort on paper: https://www.overleaf.com/project/652ff66cfdab616bf3912f7e
+- meet with evan for 1:1 about the work
+- Good discussion... what are the axis of good and bad between the two versions we offer today at CU. I'd argue that it actually fits well to my point of scale and effective. While one requires a lot of mental and emotional energy and provides a better total learning experience to the student, it's almost not worth it due to the challenges of teaching at scale (and how do you manage the staff effectively for this)? While the other is so easy for the staff to manage, but it doesn't necessarily help the students identify what they have learned, what they need more practice on, and what they can see value with in industry on the back side. Perhaps I'm just saying that because its convnenient and fits my current writing, but I think there is certainly truth in this...
+- So what should my contribution be? Perhaps to scale what can be scaled from the more invested version? Perhaps to lower the stakes for students so they feel better support? I'm not sure I'm ready to open that door... Let's not. But we can talk about how to scale the methods of that version of the course by moving to a full ungrading model and committing. That doesn't feel like a contribution though. That is just saying, change the model... SCALE comes back in. The scale of ungrading is often not considered. The papers typically look at a much smaller class size. Could the method of teaching 2 week labs in a flipped classroom scale? That was my question to begin with. My biased opinion is that it requires lectures and more infrastructure - and initial readings suggest that to be true, but that is not good research... What is it that I really want to say here? The labs are good! The challenge for students to explore and find what they want to study is inspiring. The staffing and scale is a challenge. This requires highly trained and dedicated staff. And a buy in to the method - which is still partially disguising itself as traditional grading when its not. What can we better scale? The student to student interactions! Evan talked about this in the past... Could we have the students perform peer interview grading for objective review by the course staff? Could the parteners interview together with a course staff present? or bigger groups? This student to student interaction is identified as the best scalable solution. But we need "staff in the loop" if you will to facilitate the grading... Or do we? could we assign the students a peer-to-peer interview. Record it. Questions that they can try on their own. Encourage them to do it live. Tell them to not do it live would be to violate the honnor code. Assess them on how they do. And disassociate their grade to prevent poor ethical choices. Give them the ungraded grade assessmenet and good feedback on their performance.
+    - wouldn't students just cheat? maybe... but it would require either a lot of extra time on their end, or it would require them to plagarize something.
+        - removing the grade aspect could help too
+    - What could this look like? worth exploring further. I think Evan already suggested something like this...
+    - add in a reflective component where in the video, students give their own assesment of their performance and that of their peers. have the hard but honnest discussions. Have a framework for them to do it
+        - removing the grading aspect helps the students have those challenging discussions in a way that is good for them and their future careers... and helps them learn from these mistakes with less pressure of their performance on the grades
+    - logistics: the staff can grade on double speed and assess if the students self-assessment is fair and reasonalbe. if not, it can escalate a discussion as needed with different members of the course staff. We can have example assesmmsents as a homework 0 for the students to attempt.
+
+
+# U:: Oct 29, 2023
+- continued effort on paper: https://www.overleaf.com/project/652ff66cfdab616bf3912f7e
+- schools syllabus:
+    - WU: https://courses.cs.washington.edu/courses/cse341/20sp/syllabus.html
+    - Berkely: ???
 
 
 

@@ -1,3 +1,28 @@
+# M: Oct 30, 2023
+- Logistics: I will give the presentation based on the paper this Friday. I will schedule a meeting for early next week with time for Evan to read my midterm retrospective and provide feedback.
+- I have authored an intro and method, but I'm not clear on what my results can be
+    - I am continuing to work on a paper, the contribution and the research question will cycle on eachother. For now the scope of the contribution isn't enough for a conference, but I can still write up what I have done and what my contribution would be if the scope were wider
+    - I can even have hypothetical graphs of what I hope the data looks like after some alleged experiment were run that demonstrates my contribution.
+- Experiments section: what are those research questions that you would use in furtre work
+    - what is the problem?
+    - why is it important?
+    - Why is it hard/not trivial?
+    - AND what did I contribute here?
+    - the Contribution and problem statement go hand in hand
+    - The problem statement is always too big at first (they narrow eachother)
+- Current scope is too big. Its too many classes. But lets consider the one thing I really think is worth trying and why. ….
+    - The expected contribution… proposed contribution is to try this exaperiment and find the results.
+    - The experiment without the reults. But a fake draft of what the graph could look like. 
+- Instead of the flipped classroom, I’ll try blah blah blah
+    - Consider the current two versions of the course. Sameish material and the same goals.
+    - Then data on if these models are working.
+    - Sriram has problem X and Evan has Y. so if we onlytry thigs the we we solve it all.
+        - What are the axis of good and bad in each class
+        - What am I proposing that is different?
+- Focus on the question that you actually want to solve and the rest will figure itself out (mostly)
+
+
+
 # T: Sept 19, 2023
 - meeting summary:
     - May be able to pilot the proposal in future semesters. Here we are doig the first half of the paper. background, related work, methods, examples, potentially tools that help with administering the course. 
