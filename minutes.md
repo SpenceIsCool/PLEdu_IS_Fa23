@@ -1,4 +1,7 @@
 # TODO:
+- Critical Digital Pedagogy: a Definition: https://hybridpedagogy.org/critical-digital-pedagogy-definition/
+- Klapp's work on ungrading is likely worth exploring
+- see WEI: Wellington Engagement Index 
 - read:
     - https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-018-0123-6?fbclid=IwAR2VvzBd5jaSdFDqD1oW7Dr0o-wYIbAY9W5bwxk2Q_ueS0IkchJPQ1HNuDA
     - https://www.jstor.org/stable/43631999?casa_token=SD4MS1ekUkcAAAAA%3AzBPRthorV7gHxxneXf35jHdIiuK7bPqYfWcxf5lIY6HCBqJDhYSwKdzZUDkzl7GrIunEcrjzXwXZ5ED4DGHbRAe5srklgHavJeki06JMJAmOO3B89IyR
@@ -56,9 +59,184 @@
 
 
 
+
 # D: Month dd, yyyy (template)
+- Timeline of completed work
+- Challenges in completing the work
+- Documentation of decision processes
 - SPWI
 
+
+# U: Nov 12, 2023
+- moved the lab notebook to Jupyter notebooks for ease of use:w
+
+
+
+# F: Nov 10, 2023
+- I finally completed my own midterm self reflection. This was very intimidating. How do we help set expectations about the self reflection on a peer interview?
+    - drafted in reflectionsExpectations.md
+    - but what is the real goal here? I don't actually want the reflections to be graded by the staff. I think there would be value in that, but the idea is expert sampling and completion grading. Simply, did they submit something with sections filled out?
+    - The goal is to help with student buy in. To construct an assignment where students perform the reflection in a serious way as they recognize the value of the reflection, even though there is limited faculty grading involved in the backend.
+    - We might be able to encourage this by heavily weighting the reflection. In practice I know many students that would blow it off even though it's worth a lot simply because they can. So I would lean more heavily on buy in then overweighting this. Demonstrate to students at each retro/each lab how the retro is valuable in helping some hypothetical student master the course content?
+        - weight the interview based on your standard system and do not overweight the assignment.
+- How do we currently weight the course? I recall something about labs being somewhat low percentage wise relative to student time and that frustrated students. Something about how the labs are the learning tool...
+    - 30% labs. maybe the issue was more around the percentage weight of lab autograder vs interviews?
+        - ???
+- What faculty could I reach out to in EDUC?
+    - https://www.colorado.edu/education/research/centers
+    - Center for Assessment, Design, Research and Evaluation (CADRE)
+        - https://www.colorado.edu/cadre/
+- LPF: Using a Learning Progression Framework to Assess and Evaluate Student Growth
+    - https://www.colorado.edu/education/sites/default/files/attached-files/CADRE.CFA-StudentGrowthReport-Final_0.pdf   
+    - could this be used in some way of measuring effectiveness instead of blooms?
+    - who are the researchers? Do any of them work in ungrading models?
+        - Derek Briggs: https://www.colorado.edu/education/derek-briggs
+        - Elena Diaz-Bilello: https://www.colorado.edu/cadre/elena-diaz-bilello
+        - Fred Peck: https://www.colorado.edu/education/sites/default/files/attached-files/CV_Peck.pdf (current student)
+        - Jessica Alzen: https://www.colorado.edu/cadre/jessica-alzen
+            - works on large datasets
+            - using statistics to understand unique and individual experiences
+        - Raymond Johnson current student focus in mathmatics teaching. Looks like he actually graduated.
+- google : "CU Boulder ungrading"
+    - Ungrading: A Round Robin Discussion
+        - https://www.cu.edu/blog/online-teaching-blog/ungrading-round-robin-discussion
+        - cool blog on a book club. Not sure this is quite what I'm looking for. I don't have full context on the participants and the author isn't coming up as a member of faculty
+- worked on google scholar to not really find anything linking "<CU>" and "ungrading"
+- Recall the talks from this summer. Jesse Stomel is a CU grad
+    - https://www.jessestommel.com/
+    - who was his advisor?
+        - his PhD is actually in English...
+        - still does a ton of research on education, so maybe this is still a good lead.
+        - can't seem to find it or even what year he completed the degree
+-  Classroom Assessment Principles to Support Teaching and Learning 
+    - https://www.colorado.edu/cadre/2020/02/11/classroom-assessment-principles-support-teaching-and-learning
+    - Lorrie Shepard: https://www.colorado.edu/education/lorrie-shepard
+        - misuse of tests
+        - very estemed faculty
+    - Elena Diaz-Bilello (above)
+    - William Penuel: https://www.colorado.edu/education/william-penuel
+        - equity in the classroom
+        - testing strategies around this
+        - ways to test what is designed!
+        - research, policy and practice
+    - Scott Marion: https://nepc.colorado.edu/author/marion-scott not CU
+- People I'd like to learn more about current work
+    - Jessica Alzen: https://www.colorado.edu/cadre/jessica-alzen, curious about what is the "right" way to conduct this experiement in practice to get valuable data
+        - https://scholar.google.com/citations?user=AqDto8kAAAAJ&hl=en&oi=ao
+    - Lorrie Shepard: https://www.colorado.edu/education/lorrie-shepard, interest in the misuse of testing
+        - https://scholar.google.com/citations?user=vUYo2XsAAAAJ&hl=en&oi=ao
+    - William Penuel: https://www.colorado.edu/education/william-penuel, I'm curious about the equity of the new model as well. I suspect there are social groups that will learn better from this model, and also some that will be disadvantaged. Prof Penual notes an interest in testing the models...
+        - https://scholar.google.com/citations?user=werkEPcAAAAJ&hl=en&oi=ao
+        - Cultivating Skillful Means of Care in Schools Through Compassion Practice and Individual and Joint Inquiry
+            - https://link.springer.com/article/10.1007/s12671-022-01867-x
+            - compasion is experienced differently and asymetric on various aspects of being
+            - also ask about how teachers can have compasion for themselves/practice self care. the focus on compassion for the students has found data for better faculty experience. like a meditation practice.
+            - how could peer to peer care be incorporated to the system?
+            - process includes writing field notes AS WELL AS review of the process itself AND the shared field notes review
+            - great to have data form each member to explore and get a deep breadth of knowledge on the course process. While in 3155, we only have 1 prof each semester, we do have the rest of the course staff to consider.
+        - The Community Builder (CoBi): Helping Students to Develop Better Small Group Collaborative Learning Skills
+            - https://dl.acm.org/doi/pdf/10.1145/3584931.3607498
+            - has lots of great references for the importance of collaboration
+            - has visualizations on students successes... that sounds interesting...
+            - could the video tool review the student peer interviews for us?!
+            - currently verbal only but maybe somday non-verbal
+- What kind of "interview" is this? structured? semi-structured?
+- look at the other names on the CoBi paper...
+- People I'd like to prioritize first contact with
+    - William Penuel: questions about CoBi and applications to my process. Emphasis on the value in equity for the research.
+- from Shawns presentation
+    - overview contains the motivation
+    - then the results can tie briefly to the motivation but should focus on the algorithm and the findings and technical aspects of the work
+
+
+# R: Nov 9, 2023
+- added feedback points to the midterm presentation slide deck: https://docs.google.com/presentation/d/1XMd2c97-5gElv_xqk04Zhmf4a2w74d5sk-2pzGYZHvs/edit#slide=id.g2993ccb927c_0_33
+- working on the midterm reflection. I find this very challenging as I have not done one of these before. That brings and important note. It would be valuable for students to have samples of what is expected in writing a self refleciton.
+    - I forgot that a huge goal of this minutes document is to hold a log of what I was thinking, what decisions I make in my research and why I made those decisions. I will recommit to this now by adding the concept to the template. While this somewhat feels like a misuse of my time, I actually find that writing helps me make sure I know what I actually mean to say and it clarifies my own understanding of concepts.
+- discussion with Shawn at stadnup today: what are the aspects of self reflection that are hard. What are leassons learned from industry and how it tends to be done poorly there that we could bring to making a better experience for our students. Perhaps this has a downstream application of helping our students make a change in how their company does their performance reviews. Shawn notes the concept of asymatry in risk and reward for industry self-appraisals. Things that an employee does well can often lead to limited value to the employee, but things that are documented where the employee can improve can be used negativly against the employee. Here in our school context, the idea was to have students complete the reflection. It is graded for completness, but then we prioritize helping the students that self identify as approaching or novice (X, check-). We actually reverse that asymetry and give students the most value for self reporting the negatives. Am I concerned about this influencing their behavior in a way that can impact them negatively in industry? Maybe. Am I qualified to expresss to students how to do this industry? NO, I'm biased, I'd say in industry keep the negatives close to chest and only list the posiitives, but then tell them to do the exact opposite in the self reflection. We could tie that to the reflection. Something fun is to have the student write their honnest self reflection, then write a business pro version of the reflection taht integrates buzz words like "integrated backwards synnergies" to the writing to get a flavor of what some companies have employees do for reviews. I'm worried about biasing the students before they get to industry so I'm not meaning that idea too seriously, but I think it's an interesting concept.
+- in this discussion, we highlight again the value of buy in
+- Shawn iterates good advice that I often forget. The goal is not to solve some massive problem. The goal is to provide evidence based demonstration of value that could be used in solving those massive problems. Keep it small. Keep it simple. Keep it specific. - my words...
+- in writing my own midterm self reflection, I see how intimidating this can be. I'm curious to develop samples of a "good" self reflection for students to use in training and setting expectations for the course.
+
+
+# T: Nov 7, 2023
+- feedback videos on youtube
+    - How to give constructive feedback - Compliment Sandwich 
+        - https://www.youtube.com/watch?v=SPVnOonSO-s
+        - not professional, but funny and memorable
+    -  The secret to giving great feedback | The Way We Work, a TED series 
+        - https://www.youtube.com/watch?v=wtl5UrrgU8c
+        - well made from TED
+        - pull feedback instead of push
+        - begin with a micro-yes to help the person receiving feedback know that they are about to receive feedback
+- personal reflection note: I think starting with videos can be very valuable to me
+- question from the midterm presentation: Why do we grade the interview for student performance? Could we grade the interview for completness - done or not.
+    - then reiew all students that self identify as a low performance.
+        - potentially also expert sample the other students at random
+    - the students already completed the lab and they have an in-class quiz on the topic, plus the exams. They have ways that they are tested and potentially penalized for a lack of knowledge.
+    - so the interview could serve as a mechanism for honnest self reflection with less incentive to cheat (less guardrails)
+    - we then as course staff get to focus on feedback and helping the students that self identify as foalling behindget the help that they need
+- rubrics
+    - rubrics can be more generic on the description of N, A, P, AU 
+    - a solution video/sketch can be made by the course staff demonstrating what advanced understanding might look like
+        - video bumper explains that the student doesn't need this exact answer but needs to demonstrate deep understanding of the topic 
+- what are the possible ramifications of this decision? What was the original purpose of the interview? the itnerview with a smaller number of enrolled students was longer in fromat. We would answer some questions alone. I believe we also answerred some questions with our lab partner in the room with us. The goal for me as a student was to test my own knowlwedge and see if I can answer the questions based on what I learned in the labs. At the time I was frustrated and struggled to understand the concept that the labs had seemingly hidden information that I was supposed to learn by completing the lab. That may have been a personal problem that others experience as well, but it brings with it an important question. What should the questions look like as we take TAs out of the loop during the interview? If students complete lab 1 in teams, then they get to an interview that asks them about AVL trees... how would they react without a member of the course staff present? I don't know that I have an answer for this. I've always been hesitant to use that AVL question. So I'm biased...
+- good discussion at standup regarding student buy in and how we get students to engage honnestly in the assignment the feels like it isn't graded seriously. Our intention is to better capture an understanding of student mastery without them being penalized for acceptably not knowing the material well enough yet. Will this work?
+- Gradeless Learning: The Effect of Eliminating Traditional Grading Practices on Student Engagement and LearningPractices on Student Engagement and Learning
+    - https://red.mnstate.edu/cgi/viewcontent.cgi?article=1560&context=thesis
+    - https://red.mnstate.edu/thesis/527/
+    - 3 questions: """
+        - 1) What effect does the elimination of traditional grading practices have on student engagement
+in learning?
+        - 2) What impact does the removal of traditional grading practices and implementation of a reflective process have on students’ perception of their learning?
+        - 3) What effect does student self-evaluations to determine final grades have on potential grade inflation?
+        - """
+    - emphasis on structure that excites students and give them hope to continue
+    - "Traditional grading practices: assigning an average grade that corresponds to a letter grade: A, B, C, D, F"
+    - there exists data that higher standards in learning from the instrucor yield more learrning by the student seen in subsequent semesters of academic experience
+    - Klapp's work on ungrading is likely worth exploring
+    - WEI is relevant as well: (un)challenged vs hate/love it
+    - curious, here they kept the 4-scale grade private and only worked with students in terms of feedback on their performance. used in part to compare the student performance to what would have been the grade in a traditional grading system
+    - sees a decrease in engagment measured by WEI
+    - finding on engagment:: """
+        - 1. Students saw their grades as accurate representations of their learning and effort in the class.
+        - 2. Motivation was a key factor both positively and negatively for students learning without traditional grading practices.
+        - 3. Students began to value learning over grades when only feedback was received on individual assignments
+        - """
+        - for finding 3... HOW? they didn't get a grade so how was this measured??
+    - challenges of uncertainty in expectations of quality 
+    - for many people they experienced less stress. I personally found the opposite, but a part of this is that I've never been in a true ungraded course. Closest was CBD. 
+    - some people did struggle as well in this model.
+    - ties back to other readings and the challenge of buy in from students and helping them adapt to a "new" modelof understanding their own mastery and grade
+    - student have high expectatins of themselves, and traditional grading practices can, at time, put the instructor and student in an adverseral discussion about the grade and distract from the learning.
+    - what is the role of "instructional coaches" in our department today? I know we have some intiatives with the CTL, but what are all of those. I wonder...
+
+
+# M: Nov 6, 2023
+- kept getting distracted while trying to work on my midterm reflection
+- started to write the presentation feedback into the slides document
+- authored the biweekly reflection
+
+
+# F: Nov 3, 2023
+- Final efforts in revision of the presentation. i decided to condense the slides with animations, but I would have prefered to keep the slides as separates so the presenter notes are easier to read during the presentation. Something to think about for the final presentation
+- I was shoked by how many people attended my talk, but many of them seemed engaged and learned something interesting to them
+- I struggled to take feedback in the moment - so I'll have to work on that still
+- I appreciated the questions and ideas that were sent to me after the event as well. It's clear that I have more work to on
+
+
+# R: Nov 2, 2023
+- paper and presentation finalization
+- spent all day on this and enjoyed the process. In some ways I wish this had been a longer and slower burn as opposed to so much effort at the last minute, but on the other hand, the massive amount of writing and editing was valuable to me knowing exactly what it is that I wanted to say in the presentation. 
+- Talk is cheap, but it's effective: I think this was my concern, that this was a great idea in smaller classes but it isn't working in larger classes
+
+
+# W: Nov 11, 2023
+- made presentation format: https://docs.google.com/presentation/d/1XMd2c97-5gElv_xqk04Zhmf4a2w74d5sk-2pzGYZHvs/edit#slide=id.p
+- total refactor of concept and approach in writing to centralize on the concept of reflective peer to peer ungrading
+    - that was fun, wish I started there
+- inspo for interviews
+- wrote up the interviews and attempted with 3 TAs throughout the day. Got a variety of unexpected feedback which was nice to hear. Sometimes hard, but good to hear.
 
 # T:: Oct 31, 2023
 - continued effort on paper: https://www.overleaf.com/project/652ff66cfdab616bf3912f7e
@@ -412,7 +590,7 @@
 
 
 # R: Sept 14, 2023
-- 1:1 discussion with Sean about debugging: there is so much value in learning how to debug. How to see the error messages and stack trace of a problem and then use that information and the internet to find a solution. Story of having to compile the linux kernel many times. The likelyhood of equity issues and access to technology at a young age. Note that the process for doing this debugging is learnable and often easy to learn, but many college courses assume that students already know it or assume that students can easily teach it to themselves. Its actually rarely tough in entry level courses. Its actually not easy to learn on your own - although it is possible. Discussions about the idea of live coding and live debugging. A recomendation that the most value comes from watching someone that is very competent in their technical domain coming up against a wall and finding a path forward from that. Challenges to implement this in the classroom. There are papers on live coding and I agree there is value in live debugging be a part of that (challenges in timeing during a live class to live debug hard problems). It could be possible as live code-with-me videos where the dev talks to a rubber duck while debugging some issue.
+- 1:1 discussion with Shawn about debugging: there is so much value in learning how to debug. How to see the error messages and stack trace of a problem and then use that information and the internet to find a solution. Story of having to compile the linux kernel many times. The likelyhood of equity issues and access to technology at a young age. Note that the process for doing this debugging is learnable and often easy to learn, but many college courses assume that students already know it or assume that students can easily teach it to themselves. Its actually rarely tough in entry level courses. Its actually not easy to learn on your own - although it is possible. Discussions about the idea of live coding and live debugging. A recomendation that the most value comes from watching someone that is very competent in their technical domain coming up against a wall and finding a path forward from that. Challenges to implement this in the classroom. There are papers on live coding and I agree there is value in live debugging be a part of that (challenges in timeing during a live class to live debug hard problems). It could be possible as live code-with-me videos where the dev talks to a rubber duck while debugging some issue.
 
 
 # W: Sept 13, 2023
