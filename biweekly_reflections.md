@@ -6,6 +6,10 @@
 - Reflective
     - My thoughts on the process so far
 
+# Monday November 6
+- Technical: The past two weeks came with an emphasis on refining my scope and the construction of a "midterm" paper and presentation. With some last minute inspiration to focus on peer-to-peer interactions and reflective "ungrading", I had a few last minute reads to add in on the bloom taxonomy. I also hastily constructed a series of first round informational interview questions to understand what existing TAs thought about the concept.
+- Reflective: The discussion with Evan about having some axis of comparison was very important. I'm very greatful to Aishwarya as well for reminding me of the option to perform informational interviews. Ultimately, I think I was able to pull together an acceptable paper and a decent presenation. This certainly would have been better had I better understood this research question earlier in the semester. The presentation came with a lot of good follow up questions that I need to consider.
+
 
 # Monday October 23
 - Technical: Over the past two weeks I have taken a break from reading about what others have done and focused on the construction of sample syllabus for principles of programming languages under different (un)grading models, additionally I have begun constructions of the midsemester paper and presentation
